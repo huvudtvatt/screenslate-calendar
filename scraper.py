@@ -1,4 +1,5 @@
 import datetime
+import json
 import re
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
@@ -15,13 +16,13 @@ HEADERS = {
 
 
 def parse_time(time_str):
-    """Converts strings like '7:00pm', '7pm', '12:30pm' into datetime.time object."""
+    """Parse time strings like '7:00pm', '7pm', '12:30pm' into datetime.time object."""
     cleaned = time_str.strip().lower().replace(" ", "")
     cleaned = re.sub(r"^(\d{1,2})(am|pm)$", r"\1:00\2", cleaned)
     try:
         return datetime.datetime.strptime(cleaned, "%I:%M%p").time()
     except ValueError:
-        return datetime.time(19, 0)  # Default fallback to 7:00 PM
+        return datetime.time(19, 0)
 
 
 def scrape_and_build_ics():
@@ -44,59 +45,94 @@ def scrape_and_build_ics():
 
     event_count = 0
 
-    # Look for list items or elements containing showtimes
-    # Screen Slate groups listings under headers or container blocks
-    blocks = soup.find_all(["li", "div", "p", "article"])
+    # 1. Try parsing JSON-LD / Next.js embedded state
+    scripts = soup.find_all("script", type="application/ld+json") or soup.find_all(
+        "script", id="__NEXT_DATA__"
+    )
 
-    for block in blocks:
-        text = block.get_text(" ", strip=True)
+    for script in scripts:
+        if not script.string:
+            continue
+        try:
+            data = json.loads(script.string)
 
-        # Match time patterns like 7:00pm, 12:45pm, 6:30pm
-        times = re.findall(
-            r"\b(\d{1,2}(?::\d{2})?\s*(?:am|pm|AM|PM))\b", text
-        )
+            # Process Schema.org Event structures if available
+            items = data if isinstance(data, list) else [data]
+            for item in items:
+                if item.get("@type") == "Event":
+                    title = item.get("name", "Screening")
+                    location = item.get("location", {}).get("name", "NYC Cinema")
+                    start_str = item.get("startDate")
 
-        if times and len(text) < 500:
-            # Extract venue from previous header or parent
-            venue_el = block.find_previous(["h2", "h3", "h4", "strong"])
-            venue_name = (
-                venue_el.get_text(strip=True) if venue_el else "NYC Cinema"
-            )
-
-            # Clean up the movie title text (removing raw time strings)
-            title = text
-            for t in times:
-                title = title.replace(t, "")
-            title = title.strip(" *:-•\n\t")
-
-            # Extract links if available
-            link_el = block.find("a", href=True)
-            href = link_el["href"] if link_el else "/listings"
-            full_url = (
-                href
-                if href.startswith("http")
-                else f"https://www.screenslate.com{href}"
-            )
-
-            if len(title) > 2:
-                for time_str in times:
-                    show_time = parse_time(time_str)
-                    dt_start = tz.localize(
-                        datetime.datetime.combine(today, show_time)
+                    dt_start = (
+                        datetime.datetime.fromisoformat(start_str)
+                        if start_str
+                        else tz.localize(
+                            datetime.datetime.combine(
+                                today, datetime.time(19, 0)
+                            )
+                        )
                     )
                     dt_end = dt_start + datetime.timedelta(hours=2)
 
                     event = Event()
-                    event.add("summary", f"{title} @ {venue_name}")
+                    event.add("summary", f"{title} @ {location}")
                     event.add("dtstart", dt_start)
                     event.add("dtend", dt_end)
-                    event.add("location", venue_name)
-                    event.add(
-                        "description", f"Screen Slate Listing: {full_url}"
-                    )
+                    event.add("location", str(location))
+                    event.add("description", f"Screen Slate Listing: {URL}")
 
                     cal.add_component(event)
                     event_count += 1
+        except Exception:
+            pass
+
+    # 2. Fallback: Parse visible venue blocks directly
+    if event_count == 0:
+        # Screen Slate structures listings under venue containers or paragraphs
+        raw_text = soup.get_text("\n")
+        current_venue = "NYC Cinema"
+
+        for line in raw_text.split("\n"):
+            line = line.strip()
+            if not line:
+                continue
+
+            # Identify time patterns like 7:00pm, 12:15pm, 6:50pm
+            times = re.findall(
+                r"\b(\d{1,2}(?::\d{2})?\s*(?:am|pm|AM|PM))\b", line
+            )
+
+            if times:
+                title = line
+                for t in times:
+                    title = title.replace(t, "")
+                title = title.strip(" *:-•\n\t")
+
+                if len(title) > 2:
+                    for t_str in times:
+                        show_time = parse_time(t_str)
+                        dt_start = tz.localize(
+                            datetime.datetime.combine(today, show_time)
+                        )
+                        dt_end = dt_start + datetime.timedelta(hours=2)
+
+                        event = Event()
+                        event.add("summary", f"{title} @ {current_venue}")
+                        event.add("dtstart", dt_start)
+                        event.add("dtend", dt_end)
+                        event.add("location", current_venue)
+                        event.add("description", f"Screen Slate Listing: {URL}")
+
+                        cal.add_component(event)
+                        event_count += 1
+            elif (
+                len(line) < 60
+                and not line.startswith("http")
+                and not any(char.isdigit() for char in line)
+            ):
+                # Update venue context heading (e.g. "Film Forum", "Metrograph")
+                current_venue = line
 
     with open("screenslate.ics", "wb") as f:
         f.write(cal.to_ical())
