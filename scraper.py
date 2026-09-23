@@ -8,28 +8,48 @@ import requests
 URL = "https://www.screenslate.com/listings"
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
-        " (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/128.0.0.0 Safari/537.36"
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.screenslate.com/",
 }
 
+# General UI / Navigation links to ignore
 IGNORED_TITLE_WORDS = {
     "screen slate", "screenslate", "listings", "articles", "about",
     "donate", "search", "home", "instagram", "twitter", "facebook",
     "log in", "sign up", "previous day", "next day", "screenings",
-    "exhibitions", "calendar", "archive", "read more", "view details"
+    "exhibitions", "calendar", "archive", "read more", "view details",
+    "membership", "support", "contact", "editorial", "rss", "terms", "privacy"
 }
 
-TIME_REGEX = r"\b(\d{1,2}(?::\d{2})?\s*(?:[aApP]\.?[mM]\.?|[aApP]))\b"
+# Flexible regex for showtimes: e.g. 7:00 PM, 7:00pm, 7pm, 7:00, 12:30p
+TIME_REGEX = re.compile(
+    r"\b(\d{1,2}(?::\d{2})?\s*(?:[aApP]\.?[mM]\.?|[aApP]|am|pm)?)\b"
+)
 
 
 def parse_time(time_str):
-    """Parse time strings like '7:00 PM', '7:00pm', '7pm', '12:30p' into a datetime.time object."""
+    """Parse time strings (e.g., '7:00 PM', '7:00pm', '7pm', '19:30', '7:30') into datetime.time."""
     cleaned = time_str.strip().lower().replace(".", "").replace(" ", "")
+    if not cleaned:
+        return None
+
+    # Handle HH:MM without explicit AM/PM (default evening times < 12 to PM)
+    if re.match(r"^\d{1,2}:\d{2}$", cleaned):
+        parts = cleaned.split(":")
+        hr, mn = int(parts[0]), int(parts[1])
+        if 1 <= hr <= 11:
+            hr += 12
+        return datetime.time(hr, mn)
+
+    # Convert formats like '7pm' -> '7:00pm' or '7p' -> '7:00pm'
     cleaned = re.sub(r"^(\d{1,2})(am|pm|a|p)$", r"\1:00\2", cleaned)
     cleaned = re.sub(r"([ap])$", r"\1m", cleaned)
-    
+
     for fmt in ("%I:%M%p", "%H:%M", "%I%p"):
         try:
             return datetime.datetime.strptime(cleaned, fmt).time()
@@ -39,9 +59,10 @@ def parse_time(time_str):
 
 
 def extract_runtime(text):
-    """Extract runtime in minutes from listing text (e.g. '112 min', '1h 45m').
+    """Parses runtime in minutes from listing text (e.g. '112 min', '1h 45m', '95m').
     Defaults to 120 minutes (2 hours) if omitted.
     """
+    # Match '1h 45m' or '2 hrs 10 mins'
     h_m = re.search(
         r"\b(\d+)\s*h(?:our|ours|r)?\s*(?:(\d+)\s*m(?:in|ins|inute|inutes)?)?\b",
         text,
@@ -53,43 +74,51 @@ def extract_runtime(text):
         if hours < 8:
             return (hours * 60) + mins
 
+    # Match '112 min', '95m', '105 mins'
     m_only = re.search(
         r"\b(\d{2,3})\s*(?:min|mins|m|minutes)\b", text, re.IGNORECASE
     )
     if m_only:
         return int(m_only.group(1))
 
-    return 120
+    return 120  # Default fallback: 2 hours
 
 
-def get_listing_container(a_tag):
-    """Find the tightest parent container around a movie title link that includes showtimes."""
+def find_screening_container(a_tag):
+    """Scans up parent levels from a link tag to find the smallest container with showtimes."""
     curr = a_tag.parent
-    while curr and curr.name not in ["html", "body", "main"]:
+    depth = 0
+    while curr and depth < 5 and curr.name not in ["html", "body"]:
         text = curr.get_text(" ", strip=True)
-        times = re.findall(TIME_REGEX, text)
-        if times:
-            other_links = [
-                link for link in curr.find_all("a")
-                if link != a_tag and len(link.get_text(strip=True)) > 2
-            ]
-            if len(other_links) <= 3:
-                return curr, times
+        # Look for explicit time formats with AM/PM or colon time strings
+        raw_matches = re.findall(
+            r"\b(\d{1,2}:\d{2}\s*(?:[aApP]\.?[mM]\.?|[aApP]|am|pm)?|\d{1,2}\s*(?:[aApP]\.?[mM]\.?|[aApP]))\b",
+            text,
+        )
+        if raw_matches:
+            valid_times = []
+            for t in raw_matches:
+                p = parse_time(t)
+                if p is not None:
+                    valid_times.append(t)
+            if valid_times:
+                return curr, list(set(valid_times))
         curr = curr.parent
+        depth += 1
     return None, []
 
 
 def get_venue_for_listing(a_tag):
-    """Search backwards from a listing link to find the closest venue header."""
+    """Finds the associated venue title by scanning backward in the DOM."""
     for prev in a_tag.find_all_previous(
-        ["h1", "h2", "h3", "h4", "h5", "div", "p", "section", "header", "b", "strong"]
+        ["h1", "h2", "h3", "h4", "h5", "div", "p", "strong", "b"]
     ):
         text = prev.get_text(" ", strip=True)
-        if not text or len(text) < 3 or len(text) > 100:
+        if not text or len(text) < 3 or len(text) > 90:
             continue
 
-        # Venue headers do not contain movie showtimes
-        if re.search(TIME_REGEX, text):
+        # Skip elements that contain showtimes (movie cards, not venue headers)
+        if re.search(r"\b\d{1,2}:\d{2}\b", text):
             continue
 
         low = text.lower()
@@ -97,63 +126,42 @@ def get_venue_for_listing(a_tag):
             term in low
             for term in [
                 "screenings", "exhibitions", "screen slate", "donate",
-                "subscribe", "newsletter", "search", "menu"
+                "subscribe", "newsletter", "search", "menu", "articles"
             ]
         ):
             continue
 
         is_heading = prev.name in ["h1", "h2", "h3", "h4", "h5"]
-        classes = [c.lower() for c in prev.get("class", [])]
+        is_uppercase = text.isupper() and len(text) > 4
         has_venue_class = any(
-            "venue" in c or "location" in c or "cinema" in c or "theater" in c
-            for c in classes
+            "venue" in c.lower() or "location" in c.lower() or "cinema" in c.lower()
+            for c in prev.get("class", [])
         )
 
-        if is_heading or has_venue_class:
+        if is_heading or is_uppercase or has_venue_class:
             return text.title() if text.isupper() else text
-
-        if prev.name in ["div", "p", "strong", "b", "span"]:
-            if not prev.find("a", href=re.compile(r"/listings/|/films/|/movies/")):
-                if len(text.split()) <= 8:
-                    return text.title() if text.isupper() else text
 
     return "Screen Slate Venue"
 
 
 def scrape_and_build_ics():
+    print(f"Fetching {URL}...")
     session = requests.Session()
     session.headers.update(HEADERS)
 
     try:
         res = session.get(URL, timeout=15)
         res.raise_for_status()
+        print(f"Successfully fetched page (HTTP {res.status_code}, {len(res.text)} bytes).")
     except Exception as e:
         print(f"Failed to fetch {URL}: {e}")
         return
 
     soup = BeautifulSoup(res.text, "html.parser")
 
-    # Remove site headers, nav, footers, scripts to prevent false context matches
-    for tag in soup(["script", "style", "nav", "header", "footer", "form"]):
+    # Strip script/style tags only (do NOT decompose structural body divs)
+    for tag in soup(["script", "style"]):
         tag.decompose()
-
-    main_content = (
-        soup.find("main")
-        or soup.find(id=re.compile(r"content", re.I))
-        or soup.find("body")
-        or soup
-    )
-
-    # 1. Stop processing at EXHIBITIONS section by removing the section and all trailing siblings
-    for tag in main_content.find_all(["h1", "h2", "h3", "h4", "h5", "div", "section"]):
-        tag_text = tag.get_text(strip=True).upper()
-        if tag_text == "EXHIBITIONS" or tag_text.startswith("EXHIBITIONS "):
-            curr = tag
-            while curr:
-                nxt = curr.next_sibling
-                curr.decompose()
-                curr = nxt
-            break
 
     tz = pytz.timezone("America/New_York")
     today = datetime.datetime.now(tz).date()
@@ -165,9 +173,13 @@ def scrape_and_build_ics():
 
     events_added = 0
     seen_events = set()
+    sample_events = []
 
-    # 2. Extract movie screenings based on link tags and surrounding showtimes
-    for a_tag in main_content.find_all("a", href=True):
+    # Find all hyperlink candidate nodes
+    all_links = soup.find_all("a", href=True)
+    print(f"Scanning {len(all_links)} candidate links for movie screening listings...")
+
+    for a_tag in all_links:
         movie_title = a_tag.get_text(strip=True)
         href = a_tag["href"]
 
@@ -176,7 +188,17 @@ def scrape_and_build_ics():
         if movie_title.lower() in IGNORED_TITLE_WORDS:
             continue
 
-        container, time_strings = get_listing_container(a_tag)
+        # Check if this link is situated inside the EXHIBITIONS section
+        is_in_exhibitions = False
+        for prev in a_tag.find_all_previous(["h1", "h2", "h3", "h4", "h5"]):
+            if "EXHIBITIONS" in prev.get_text(strip=True).upper():
+                is_in_exhibitions = True
+                break
+        if is_in_exhibitions:
+            continue
+
+        # Find container element with showtimes
+        container, time_strings = find_screening_container(a_tag)
         if not time_strings or not container:
             continue
 
@@ -185,12 +207,10 @@ def scrape_and_build_ics():
         runtime_mins = extract_runtime(container_text)
 
         full_url = (
-            href
-            if href.startswith("http")
-            else f"https://www.screenslate.com{href}"
+            href if href.startswith("http") else f"https://www.screenslate.com{href}"
         )
 
-        for time_str in set(time_strings):
+        for time_str in time_strings:
             show_time = parse_time(time_str)
             if not show_time:
                 continue
@@ -219,11 +239,18 @@ def scrape_and_build_ics():
             cal.add_component(event)
             events_added += 1
 
+            if len(sample_events) < 3:
+                sample_events.append(f"  • {movie_title} at {venue_name} ({time_str}, {runtime_mins}m)")
+
     ics_bytes = cal.to_ical()
     with open("screenslate.ics", "wb") as f:
         f.write(ics_bytes)
 
-    print(f"Generated screenslate.ics with {events_added} screening events.")
+    print(f"\nSuccess! Generated 'screenslate.ics' with {events_added} screening events.")
+    if sample_events:
+        print("Sample events parsed:")
+        for sample in sample_events:
+            print(sample)
 
 
 if __name__ == "__main__":
