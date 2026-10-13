@@ -5,1005 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Screen Slate
 BEGIN:VEVENT
-UID:109069-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T141500Z
-DTEND:20261012T165900Z
-SUMMARY:Possible Love — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Lee Chang-dong | 2026 | 164M | https://www.filmlinc.org/
- nyff2026/films/possible-love/
-URL:https://www.filmlinc.org/nyff2026/films/possible-love/
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T143500Z
-DTEND:20261012T155500Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T144000Z
-DTEND:20261012T162100Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:110243-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T144500Z
-DTEND:20261012T163000Z
-SUMMARY:The Disciple — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Joanna Natasegara | 2026 | 105M | https://www.ifccenter.
- com/films/the-disciple/
-URL:https://www.ifccenter.com/films/the-disciple/
-END:VEVENT
-BEGIN:VEVENT
-UID:88076-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T150000Z
-DTEND:20261012T163300Z
-SUMMARY:The Lair of the White Worm — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Ken Russell | 1988 | 93M | https://www.ifccenter.com/fil
- ms/the-lair-of-the-white-worm/
-URL:https://www.ifccenter.com/films/the-lair-of-the-white-worm/
-END:VEVENT
-BEGIN:VEVENT
-UID:109110-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T153000Z
-DTEND:20261012T153800Z
-SUMMARY:South of Tehran\n\n|  Masao Adachi Takes a Passport Photo\n\n|  A
-  Stolen Movie\n\n|  Torino Shadow\n\n|  Screening Room — Film at Lincoln 
- Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Kleber Mendonça Filho | 2026 | 8M | Kamal Aljafari | htt
- ps://www.filmlinc.org/nyff2026/films/2026-spotlight-shorts/
-URL:https://www.filmlinc.org/nyff2026/films/2026-spotlight-shorts/
-END:VEVENT
-BEGIN:VEVENT
-UID:109972-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T153000Z
-DTEND:20261012T175600Z
-SUMMARY:Fjord — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Cristian Mungiu | 2026 | 146M | https://www.ifccenter.co
- m/films/fjord/
-URL:https://www.ifccenter.com/films/fjord/
-END:VEVENT
-BEGIN:VEVENT
-UID:109093-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T154500Z
-DTEND:20261012T162300Z
-SUMMARY:Joy of Joys — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Jonathan Glazer | 2026 | 38M | https://www.filmlinc.org/
- nyff2026/films/joy-of-joys/
-URL:https://www.filmlinc.org/nyff2026/films/joy-of-joys/
-END:VEVENT
-BEGIN:VEVENT
-UID:109280-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T161000Z
-DTEND:20261012T173500Z
-SUMMARY:The Little Mermaid — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. John Musker\,     Ron Clements | 1989 | 85M | 35mm | htt
- ps://metrograph.com/film/?vista_film_id=9999001343
-URL:https://metrograph.com/film/?vista_film_id=9999001343
-END:VEVENT
-BEGIN:VEVENT
-UID:79340-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T161500Z
-DTEND:20261012T173700Z
-SUMMARY:Goodbye\, Dragon Inn — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Tsai Ming Liang | 2003 | 82M | DCP | https://metrograph.
- com/film/?vista_film_id=9999000006
-URL:https://metrograph.com/film/?vista_film_id=9999000006
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T162000Z
-DTEND:20261012T174000Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:108926-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T165000Z
-DTEND:20261012T180300Z
-SUMMARY:Unzipped — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Douglas Keeve | 1995 | 73M | https://filmforum.org/film/
- unzipped-2026
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T165500Z
-DTEND:20261012T183600Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:110245-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T165500Z
-DTEND:20261012T181800Z
-SUMMARY:André Leon Talley: Style Is Forever — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Clayton H. Haskell\,     Zach Stafford | 2026 | 83M | ht
- tps://www.ifccenter.com/films/andre-leon-talley-style-is-forever/
-URL:https://www.ifccenter.com/films/andre-leon-talley-style-is-forever/
-END:VEVENT
-BEGIN:VEVENT
-UID:110175-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T170000Z
-DTEND:20261012T225500Z
-SUMMARY:My Undesirable Friends: Park II - Exile — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Julia Loktev | 2026 | 355M | https://filmforum.org/film/
- my-undesirable-friends-part-ii-exile
-URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
-END:VEVENT
-BEGIN:VEVENT
-UID:108921-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T170000Z
-DTEND:20261012T182900Z
-SUMMARY:The Scout — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Paula González-Nasser | 2024 | 89M | https://filmforum.o
- rg/film/the-scout
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-UID:109149-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T173000Z
-DTEND:20261012T183100Z
-SUMMARY:What Can't Be Mentioned — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Dan Sallitt | 2026 | 61M | https://www.filmlinc.org/nyff
- 2026/films/what-cant-be-mentioned/
-URL:https://www.filmlinc.org/nyff2026/films/what-cant-be-mentioned/
-END:VEVENT
-BEGIN:VEVENT
-UID:109030-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T174500Z
-DTEND:20261012T192500Z
-SUMMARY:Double Freedom — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Lisandro Alonso | 2026 | 100M | https://www.filmlinc.org
- /nyff2026/films/double-freedom/
-URL:https://www.filmlinc.org/nyff2026/films/double-freedom/
-END:VEVENT
-BEGIN:VEVENT
-UID:109073-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T174500Z
-DTEND:20261012T193200Z
-SUMMARY:Tender Loving Care — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Mike Leigh | 2026 | 107M | https://www.filmlinc.org/nyff
- /nyff64-lineup/?tab=films
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-UID:109605-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T180000Z
-DTEND:20261012T190200Z
-SUMMARY:Tokyo Melody: A Film About Ryuichi Sakamoto — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Elizabeth Lennard | 1985 | 62M | DCP | https://metrograp
- h.com/film/?vista_film_id=9999005006
-URL:https://metrograph.com/film/?vista_film_id=9999005006
-END:VEVENT
-BEGIN:VEVENT
-UID:110140-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T180000Z
-DTEND:20261012T193800Z
-SUMMARY:An Autumn's Tale — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Mabel Cheung | 1987 | 98M | DCP | https://metrograph.com
- /film/9999005025-an-autumns-tale/
-URL:https://metrograph.com/film/9999005025-an-autumns-tale/
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T182000Z
-DTEND:20261012T194000Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:109843-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T182000Z
-DTEND:20261012T195600Z
-SUMMARY:Kanal — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Andrzej Wajda | 1957 | 96M | https://filmforum.org/film/
- kanal-wajda-100
-URL:https://filmforum.org/film/kanal-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-UID:108926-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T184000Z
-DTEND:20261012T195300Z
-SUMMARY:Unzipped — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Douglas Keeve | 1995 | 73M | https://filmforum.org/film/
- unzipped-2026
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T184000Z
-DTEND:20261012T202100Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:109972-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T184500Z
-DTEND:20261012T211100Z
-SUMMARY:Fjord — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Cristian Mungiu | 2026 | 146M | https://www.ifccenter.co
- m/films/fjord/
-URL:https://www.ifccenter.com/films/fjord/
-END:VEVENT
-BEGIN:VEVENT
-UID:109630-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T190000Z
-DTEND:20261012T201900Z
-SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
-LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
-DESCRIPTION:Dir. Vickie Curtis\,     Doug Anderson | 2025 | 79M | DCP | h
- ttps://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534AY7XQG
- WFA
-URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
- Y7XQGWFA
-END:VEVENT
-BEGIN:VEVENT
-UID:107254-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T192000Z
-DTEND:20261012T210000Z
-SUMMARY:Filipiñana — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Rafael Manuel | 2026 | 100M | DCP | https://filmforum.or
- g/film/filipinana
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T192000Z
-DTEND:20261012T204000Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:109099-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T193000Z
-DTEND:20261012T205800Z
-SUMMARY:The Only Living Pickpocket in New York — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Noah Segan | 2026 | 88M | https://www.filmlinc.org/nyff2
- 026/films/the-only-living-pickpocket/
-URL:https://www.filmlinc.org/nyff2026/films/the-only-living-pickpocket/
-END:VEVENT
-BEGIN:VEVENT
-UID:109615-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T193000Z
-DTEND:20261012T211200Z
-SUMMARY:Ryuichi Sakamoto: Coda — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Stephen Schible | 2017 | 102M | DCP | https://metrograph
- .com/film/?vista_film_id=9999003243
-URL:https://metrograph.com/film/?vista_film_id=9999003243
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T194000Z
-DTEND:20261012T212100Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:109980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T200500Z
-DTEND:20261012T220800Z
-SUMMARY:The Music Lovers — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Ken Russell | 1971 | 123M | https://www.ifccenter.com/fi
- lms/the-music-lovers/
-URL:https://www.ifccenter.com/films/the-music-lovers/
-END:VEVENT
-BEGIN:VEVENT
-UID:96094-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T201000Z
-DTEND:20261012T215600Z
-SUMMARY:The Wedding Banquet — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Ang Lee | 1993 | 106M | 35mm | https://metrograph.com/fi
- lm/9999000475-the-wedding-banquet/
-URL:https://metrograph.com/film/9999000475-the-wedding-banquet/
-END:VEVENT
-BEGIN:VEVENT
-UID:109618-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T201500Z
-DTEND:20261012T222100Z
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
- fragmentary passage — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Louise Weard | 2026 | 126M | DCP\, Digibeta | https://ww
- w.bam.org/film/2026/castration-movie3
-URL:https://www.bam.org/film/2026/castration-movie3
-END:VEVENT
-BEGIN:VEVENT
-UID:110461-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T201500Z
-DTEND:20261012T215600Z
-SUMMARY:The History of Concrete — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | DCP | https://www.bam.org/fi
- lm/2026/the-history-of-concrete
-URL:https://www.bam.org/film/2026/the-history-of-concrete
-END:VEVENT
-BEGIN:VEVENT
-UID:109013-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T201500Z
-DTEND:20261012T223500Z
-SUMMARY:9 Temples to Heaven — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Sompot Chidgasornpongse | 2026 | 140M | https://www.film
- linc.org/nyff2026/films/9-temples-to-heaven/
-URL:https://www.filmlinc.org/nyff2026/films/9-temples-to-heaven/
-END:VEVENT
-BEGIN:VEVENT
-UID:109083-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T201500Z
-DTEND:20261012T221700Z
-SUMMARY:Club Kid — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Jordan Firstman | 2026 | 122M | 35mm | https://www.filml
- inc.org/nyff2026/films/club-kid/
-URL:https://www.filmlinc.org/nyff2026/films/club-kid/
-END:VEVENT
-BEGIN:VEVENT
-UID:108926-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T203000Z
-DTEND:20261012T214300Z
-SUMMARY:Unzipped — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Douglas Keeve | 1995 | 73M | https://filmforum.org/film/
- unzipped-2026
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:109844-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T203000Z
-DTEND:20261012T221300Z
-SUMMARY:Ashes and Diamonds — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Andrzej Wajda | 1958 | 103M | https://filmforum.org/film
- /ashes-and-diamonds-wajda-100
-URL:https://filmforum.org/film/ashes-and-diamonds-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T204500Z
-DTEND:20261012T220500Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:110312-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T210000Z
-DTEND:20261012T230000Z
-SUMMARY:Music Videos are Cinema Too — Roxy Cinema New York
-LOCATION:Roxy Cinema New York
-DESCRIPTION:Dir. Various | Various | https://www.roxycinemanewyork.com/sc
- reenings/the-downtown-festival-music-videos-are-cinema-too/
-URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-mu
- sic-videos-are-cinema-too/
-END:VEVENT
-BEGIN:VEVENT
-UID:109630-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T210000Z
-DTEND:20261012T221900Z
-SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
-LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
-DESCRIPTION:Dir. Vickie Curtis\,     Doug Anderson | 2025 | 79M | DCP | h
- ttps://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534AY7XQG
- WFA
-URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
- Y7XQGWFA
-END:VEVENT
-BEGIN:VEVENT
-UID:110462-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T210000Z
-DTEND:20261012T222000Z
-SUMMARY:NAZA — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.bam.org/film/2026/naza
-URL:https://www.bam.org/film/2026/naza
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T213500Z
-DTEND:20261012T225500Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:109278-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T213500Z
-DTEND:20261012T230100Z
-SUMMARY:Pumping Iron — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. George Butler\,     Robert Fiore | 1977 | 86M | DCP | ht
- tps://metrograph.com/film/?vista_film_id=9999004999
-URL:https://metrograph.com/film/?vista_film_id=9999004999
-END:VEVENT
-BEGIN:VEVENT
-UID:109040-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T214500Z
-DTEND:20261013T001000Z
-SUMMARY:La Gradiva — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Marine Atlan | 2026 | 145M | https://www.filmlinc.org/ny
- ff2026/films/la-gradiva/
-URL:https://www.filmlinc.org/nyff2026/films/la-gradiva/
-END:VEVENT
-BEGIN:VEVENT
-UID:108921-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T220000Z
-DTEND:20261012T232900Z
-SUMMARY:The Scout — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Paula González-Nasser | 2024 | 89M | https://filmforum.o
- rg/film/the-scout
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-UID:108958-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T220000Z
-DTEND:20261012T234100Z
-SUMMARY:The History of Concrete — Low Cinema
-LOCATION:Low Cinema
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | Digital Video | https://lowc
- inema.com/movie/the-history-of-concrete/
-URL:https://lowcinema.com/movie/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:109938-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T220000Z
-DTEND:20261013T002000Z
-SUMMARY:Mafrouza - Oh la nuit! — Museum of Modern Art
-LOCATION:Museum of Modern Art
-DESCRIPTION:Dir. Emmanuelle Demoris | 2007 | 140M | DCP | https://www.mom
- a.org/calendar/events/11693
-URL:https://www.moma.org/calendar/events/11693
-END:VEVENT
-BEGIN:VEVENT
-UID:109972-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T220500Z
-DTEND:20261013T003100Z
-SUMMARY:Fjord — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Cristian Mungiu | 2026 | 146M | https://www.ifccenter.co
- m/films/fjord/
-URL:https://www.ifccenter.com/films/fjord/
-END:VEVENT
-BEGIN:VEVENT
-UID:110243-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T221000Z
-DTEND:20261012T235500Z
-SUMMARY:The Disciple — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Joanna Natasegara | 2026 | 105M | https://www.ifccenter.
- com/films/the-disciple/
-URL:https://www.ifccenter.com/films/the-disciple/
-END:VEVENT
-BEGIN:VEVENT
-UID:108926-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T222000Z
-DTEND:20261012T233300Z
-SUMMARY:Unzipped — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Douglas Keeve | 1995 | 73M | https://filmforum.org/film/
- unzipped-2026
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:110175-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T223000Z
-DTEND:20261013T042500Z
-SUMMARY:My Undesirable Friends: Park II - Exile — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Julia Loktev | 2026 | 355M | https://filmforum.org/film/
- my-undesirable-friends-part-ii-exile
-URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T223500Z
-DTEND:20261013T001600Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:109865-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T224000Z
-DTEND:20261013T001800Z
-SUMMARY:Afterimage — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Andrzej Wajda | 2016 | 98M | https://filmforum.org/film/
- afterimage-wajda-100
-URL:https://filmforum.org/film/afterimage-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-UID:110461-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T224000Z
-DTEND:20261013T002100Z
-SUMMARY:The History of Concrete — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | DCP | https://www.bam.org/fi
- lm/2026/the-history-of-concrete
-URL:https://www.bam.org/film/2026/the-history-of-concrete
-END:VEVENT
-BEGIN:VEVENT
-UID:109051-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261013T003700Z
-SUMMARY:The Man I Love — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Ira Sachs | 2026 | 97M | https://www.filmlinc.org/nyff20
- 26/films/the-man-i-love/
-URL:https://www.filmlinc.org/nyff2026/films/the-man-i-love/
-END:VEVENT
-BEGIN:VEVENT
-UID:109630-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261013T001900Z
-SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
-LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
-DESCRIPTION:Dir. Vickie Curtis\,     Doug Anderson | 2025 | 79M | DCP | h
- ttps://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534AY7XQG
- WFA
-URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
- Y7XQGWFA
-END:VEVENT
-BEGIN:VEVENT
-UID:109950-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261012T235900Z
-SUMMARY:Chile\, Obstinate Memory — Columbia University Lenfest Center for
-  the Arts
-LOCATION:Columbia University Lenfest Center for the Arts
-DESCRIPTION:Dir. Patricio Guzmán | 1997 | 59M | 35mm | https://www.lenfes
- t.arts.columbia.edu/fall-2026-events/in-memoriam-patricio-guzman
-URL:https://www.lenfest.arts.columbia.edu/fall-2026-events/in-memoriam-pa
- tricio-guzman
-END:VEVENT
-BEGIN:VEVENT
-UID:110462-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261013T002000Z
-SUMMARY:NAZA — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.bam.org/film/2026/naza
-URL:https://www.bam.org/film/2026/naza
-END:VEVENT
-BEGIN:VEVENT
-UID:109285-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261013T003600Z
-SUMMARY:Urgh! A Music War — Nitehawk Cinema Prospect Park
-LOCATION:Nitehawk Cinema Prospect Park
-DESCRIPTION:Dir. Derek Burbidge | 1981 | 96M | 35mm | https://nitehawkcin
- ema.com/prospectpark/movies/urgh-a-music-war/
-URL:https://nitehawkcinema.com/prospectpark/movies/urgh-a-music-war/
-END:VEVENT
-BEGIN:VEVENT
-UID:109984-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261013T002000Z
-SUMMARY:Hallowarrior — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Ben Sottak | 2026 | 80M | https://www.ifccenter.com/film
- s/hallowarrior/
-URL:https://www.ifccenter.com/films/hallowarrior/
-END:VEVENT
-BEGIN:VEVENT
-UID:109619-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T230000Z
-DTEND:20261013T004500Z
-SUMMARY:Drinking and Driving — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Avalon Fast | 2026 | 105M | DCP | https://www.bam.org/fi
- lm/2026/drinking-and-driving
-URL:https://www.bam.org/film/2026/drinking-and-driving
-END:VEVENT
-BEGIN:VEVENT
-UID:109116-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T231500Z
-DTEND:20261012T233000Z
-SUMMARY:The People's Beach\n\n|  ee\n\n|  The House Call\n\n|  A Women's 
- Place is Everywhere\n\n|  New York Never Let Me Down — Film at Lincoln Ce
- nter
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. J. Wortham | 2026 | 15M | Heather Landsman | https://www
- .filmlinc.org/nyff2026/films/2026-new-york-shorts/
-URL:https://www.filmlinc.org/nyff2026/films/2026-new-york-shorts/
-END:VEVENT
-BEGIN:VEVENT
-UID:109275-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T233000Z
-DTEND:20261013T011400Z
-SUMMARY:Oedipus Rex — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Pier Paolo Pasolini | 1967 | 104M | DCP | https://metrog
- raph.com/film/?vista_film_id=9999002042
-URL:https://metrograph.com/film/?vista_film_id=9999002042
-END:VEVENT
-BEGIN:VEVENT
-UID:110101-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T233000Z
-DTEND:20261013T005000Z
-SUMMARY:October Country — Spectacle
-LOCATION:Spectacle
-DESCRIPTION:Dir. Donal Mosher\,     Michael Palmieri | 2009 | 80M | https
- ://www.spectacletheater.com/october-country/
-URL:https://www.spectacletheater.com/october-country/
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T234000Z
-DTEND:20261013T010000Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:110313-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261012T234500Z
-DTEND:20261013T010000Z
-SUMMARY:Let Them Be Seen — Roxy Cinema New York
-LOCATION:Roxy Cinema New York
-DESCRIPTION:Dir. Nolitha Refilwe Mkulisi | 2026 | 75M | DCP | https://www
- .roxycinemanewyork.com/screenings/the-downtown-festival-let-them-be-seen-
- qa/
-URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-le
- t-them-be-seen-qa/
-END:VEVENT
-BEGIN:VEVENT
-UID:109833-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T000500Z
-DTEND:20261013T013600Z
-SUMMARY:A Nightmare on Elm Street — Quad Cinema
-LOCATION:Quad Cinema
-DESCRIPTION:Dir. Wes Craven | 1984 | 91M | DCP | https://quadcinema.com/f
- ilm/a-nightmare-on-elm-street/
-URL:https://quadcinema.com/film/a-nightmare-on-elm-street/
-END:VEVENT
-BEGIN:VEVENT
-UID:108926-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T001000Z
-DTEND:20261013T012300Z
-SUMMARY:Unzipped — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Douglas Keeve | 1995 | 73M | https://filmforum.org/film/
- unzipped-2026
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:107254-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T001000Z
-DTEND:20261013T015000Z
-SUMMARY:Filipiñana — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Rafael Manuel | 2026 | 100M | DCP | https://filmforum.or
- g/film/filipinana
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-UID:108958-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T001500Z
-DTEND:20261013T015600Z
-SUMMARY:The History of Concrete — Low Cinema
-LOCATION:Low Cinema
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | Digital Video | https://lowc
- inema.com/movie/the-history-of-concrete/
-URL:https://lowcinema.com/movie/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T003500Z
-DTEND:20261013T021600Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:109846-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T005000Z
-DTEND:20261013T022000Z
-SUMMARY:Lotna — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Andrzej Wajda | 1959 | 90M | https://filmforum.org/film/
- lotna-wajda-100
-URL:https://filmforum.org/film/lotna-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-UID:110462-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T010000Z
-DTEND:20261013T022000Z
-SUMMARY:NAZA — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.bam.org/film/2026/naza
-URL:https://www.bam.org/film/2026/naza
-END:VEVENT
-BEGIN:VEVENT
-UID:108980-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T010500Z
-DTEND:20261013T024600Z
-SUMMARY:The History of Concrete — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
- lms/the-history-of-concrete/
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-UID:110461-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T011000Z
-DTEND:20261013T025100Z
-SUMMARY:The History of Concrete — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | DCP | https://www.bam.org/fi
- lm/2026/the-history-of-concrete
-URL:https://www.bam.org/film/2026/the-history-of-concrete
-END:VEVENT
-BEGIN:VEVENT
-UID:109284-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T011500Z
-DTEND:20261013T032200Z
-SUMMARY:Se7en — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. David Fincher | 1995 | 127M | 35mm | https://metrograph.
- com/film/9999005000-se7en/
-URL:https://metrograph.com/film/9999005000-se7en/
-END:VEVENT
-BEGIN:VEVENT
-UID:109972-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T012000Z
-DTEND:20261013T034600Z
-SUMMARY:Fjord — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Cristian Mungiu | 2026 | 146M | https://www.ifccenter.co
- m/films/fjord/
-URL:https://www.ifccenter.com/films/fjord/
-END:VEVENT
-BEGIN:VEVENT
-UID:109458-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T013000Z
-DTEND:20261013T030000Z
-SUMMARY:Jeepers Creepers — Nitehawk Cinema Williamsburg
-LOCATION:Nitehawk Cinema Williamsburg
-DESCRIPTION:Dir. Victor Salva | 2026 | 90M | 35mm | https://nitehawkcinem
- a.com/williamsburg/movies/jeepers-creepers/
-URL:https://nitehawkcinema.com/williamsburg/movies/jeepers-creepers/
-END:VEVENT
-BEGIN:VEVENT
-UID:109075-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T013000Z
-DTEND:20261013T035100Z
-SUMMARY:The Unknown — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Arthur Harari | 2026 | 141M | https://www.filmlinc.org/n
- yff2026/films/the-unknown/
-URL:https://www.filmlinc.org/nyff2026/films/the-unknown/
-END:VEVENT
-BEGIN:VEVENT
-UID:109079-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T013000Z
-DTEND:20261013T031900Z
-SUMMARY:Bucking Fastard — Film at Lincoln Center
-LOCATION:Film at Lincoln Center
-DESCRIPTION:Dir. Werner Herzog | 2026 | 109M | https://www.filmlinc.org/n
- yff2026/films/bucking-fastard/
-URL:https://www.filmlinc.org/nyff2026/films/bucking-fastard/
-END:VEVENT
-BEGIN:VEVENT
-UID:109618-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T013000Z
-DTEND:20261013T033600Z
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
- fragmentary passage — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Louise Weard | 2026 | 126M | DCP\, Digibeta | https://ww
- w.bam.org/film/2026/castration-movie3
-URL:https://www.bam.org/film/2026/castration-movie3
-END:VEVENT
-BEGIN:VEVENT
-UID:109818-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T014000Z
-DTEND:20261013T032300Z
-SUMMARY:Heathers — Metrograph
-LOCATION:Metrograph
-DESCRIPTION:Dir. Michael Lehmann | 1988 | 103M | DCP | https://metrograph
- .com/film/9999003369-heathers/
-URL:https://metrograph.com/film/9999003369-heathers/
-END:VEVENT
-BEGIN:VEVENT
-UID:109976-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T014000Z
-DTEND:20261013T032200Z
-SUMMARY:Altered States — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Ken Russell | 1980 | 102M | https://www.ifccenter.com/fi
- lms/altered-states/
-URL:https://www.ifccenter.com/films/altered-states/
-END:VEVENT
-BEGIN:VEVENT
-UID:109664-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T014500Z
-DTEND:20261013T030500Z
-SUMMARY:NAZA — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.ifccenter.com/films/naza/
-URL:https://www.ifccenter.com/films/naza/
-END:VEVENT
-BEGIN:VEVENT
-UID:110098-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T020000Z
-DTEND:20261013T032100Z
-SUMMARY:In the Woods — Spectacle
-LOCATION:Spectacle
-DESCRIPTION:Dir. Lynn Drzick | 1999 | 81M | https://www.spectacletheater.
- com/in-the-woods/
-URL:https://www.spectacletheater.com/in-the-woods/
-END:VEVENT
-BEGIN:VEVENT
-UID:110315-20261012@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T023000Z
-DTEND:20261013T035700Z
-SUMMARY:Big Break — Roxy Cinema New York
-LOCATION:Roxy Cinema New York
-DESCRIPTION:Dir. Ian Faria | 2026 | 87M | DCP | https://www.roxycinemanew
- york.com/screenings/the-downtown-festival-big-break-qa/
-URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-bi
- g-break-qa/
-END:VEVENT
-BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T143500Z
 DTEND:20261013T155500Z
 SUMMARY:NAZA — IFC Center
@@ -1014,7 +17,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T144500Z
 DTEND:20261013T163000Z
 SUMMARY:The Disciple — IFC Center
@@ -1025,7 +28,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T151500Z
 DTEND:20261013T165600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -1036,7 +39,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T153000Z
 DTEND:20261013T175600Z
 SUMMARY:Fjord — IFC Center
@@ -1047,7 +50,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:110175-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T161500Z
 DTEND:20261013T221000Z
 SUMMARY:My Undesirable Friends: Park II - Exile — Film Forum
@@ -1058,7 +61,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T162000Z
 DTEND:20261013T174000Z
 SUMMARY:NAZA — IFC Center
@@ -1069,7 +72,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T165000Z
 DTEND:20261013T180300Z
 SUMMARY:Unzipped — Film Forum
@@ -1080,7 +83,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T165500Z
 DTEND:20261013T183600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -1091,7 +94,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:108052-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T170000Z
 DTEND:20261013T203500Z
 SUMMARY:Cosi Fan Tutte — Film at Lincoln Center
@@ -1102,7 +105,7 @@ URL:https://www.filmlinc.org/films/cosi-fan-tutte/
 END:VEVENT
 BEGIN:VEVENT
 UID:108921-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T170000Z
 DTEND:20261013T182900Z
 SUMMARY:The Scout — Film Forum
@@ -1113,7 +116,7 @@ URL:https://filmforum.org/film/the-scout
 END:VEVENT
 BEGIN:VEVENT
 UID:110370-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T170000Z
 DTEND:20261013T184600Z
 SUMMARY:Animals — Paris Theater
@@ -1124,7 +127,7 @@ URL:https://www.paristheaternyc.com/film/animals-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109864-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T170000Z
 DTEND:20261013T200000Z
 SUMMARY:The Promised Land — Film Forum
@@ -1135,7 +138,7 @@ URL:https://filmforum.org/film/the-promised-land-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T173000Z
 DTEND:20261013T191100Z
 SUMMARY:The History of Concrete — IFC Center
@@ -1146,7 +149,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T180000Z
 DTEND:20261013T191900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -1159,7 +162,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T182000Z
 DTEND:20261013T194000Z
 SUMMARY:NAZA — IFC Center
@@ -1170,7 +173,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:96325-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T182500Z
 DTEND:20261013T200100Z
 SUMMARY:Happy Together — Metrograph
@@ -1181,7 +184,7 @@ URL:https://metrograph.com/film/9999000497-happy-together/
 END:VEVENT
 BEGIN:VEVENT
 UID:109274-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T183000Z
 DTEND:20261013T200000Z
 SUMMARY:Paprika — Metrograph
@@ -1192,7 +195,7 @@ URL:https://metrograph.com/film/9999002029-paprika/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T184000Z
 DTEND:20261013T195300Z
 SUMMARY:Unzipped — Film Forum
@@ -1203,7 +206,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:107254-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T192000Z
 DTEND:20261013T210000Z
 SUMMARY:Filipiñana — Film Forum
@@ -1214,7 +217,7 @@ URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T192000Z
 DTEND:20261013T204000Z
 SUMMARY:NAZA — IFC Center
@@ -1225,7 +228,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T194000Z
 DTEND:20261013T212100Z
 SUMMARY:The History of Concrete — IFC Center
@@ -1236,7 +239,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:110245-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T195500Z
 DTEND:20261013T211800Z
 SUMMARY:André Leon Talley: Style Is Forever — IFC Center
@@ -1246,33 +249,8 @@ DESCRIPTION:Dir. Clayton H. Haskell\,     Zach Stafford | 2026 | 83M | ht
 URL:https://www.ifccenter.com/films/andre-leon-talley-style-is-forever/
 END:VEVENT
 BEGIN:VEVENT
-UID:109321-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T200000Z
-DTEND:20261013T213400Z
-SUMMARY:The Shameless Old Lady (La Vielle dame indigne)\n\n|  La Chinoise
-  — L'Alliance New York
-LOCATION:L'Alliance New York
-DESCRIPTION:Dir. René Allio | 1964 | 94M | DCP | https://lallianceny.org/
- event/theater/
-URL:https://lallianceny.org/event/theater/
-END:VEVENT
-BEGIN:VEVENT
-UID:109630-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T200000Z
-DTEND:20261013T211900Z
-SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
-LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
-DESCRIPTION:Dir. Vickie Curtis\,     Doug Anderson | 2025 | 79M | DCP | h
- ttps://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534AY7XQG
- WFA
-URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
- Y7XQGWFA
-END:VEVENT
-BEGIN:VEVENT
 UID:110176-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T200000Z
 DTEND:20261013T220600Z
 SUMMARY:My Undesirable Friends: Chapters 4-5: 1st Week Of War — Film Foru
@@ -1284,7 +262,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:108819-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T200000Z
 DTEND:20261013T214800Z
 SUMMARY:The Magnificent Butcher — Museum of Modern Art
@@ -1294,8 +272,33 @@ DESCRIPTION:Dir. Yuen Woo-ping | 1979 | 108M | DCP | https://www.moma.org
 URL:https://www.moma.org/calendar/events/11651
 END:VEVENT
 BEGIN:VEVENT
+UID:109321-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T200000Z
+DTEND:20261013T213400Z
+SUMMARY:The Shameless Old Lady (La Vielle dame indigne)\n\n|  La Chinoise
+  — L'Alliance New York
+LOCATION:L'Alliance New York
+DESCRIPTION:Dir. René Allio | 1964 | 94M | DCP | https://lallianceny.org/
+ event/theater/
+URL:https://lallianceny.org/event/theater/
+END:VEVENT
+BEGIN:VEVENT
+UID:109630-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T200000Z
+DTEND:20261013T211900Z
+SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
+LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
+DESCRIPTION:Dir. Vickie Curtis\,     Doug Anderson | 2025 | 79M | DCP | h
+ ttps://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534AY7XQG
+ WFA
+URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
+ Y7XQGWFA
+END:VEVENT
+BEGIN:VEVENT
 UID:109618-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T201500Z
 DTEND:20261013T222100Z
 SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
@@ -1307,7 +310,7 @@ URL:https://www.bam.org/film/2026/castration-movie3
 END:VEVENT
 BEGIN:VEVENT
 UID:110461-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T201500Z
 DTEND:20261013T215600Z
 SUMMARY:The History of Concrete — BAM
@@ -1318,7 +321,7 @@ URL:https://www.bam.org/film/2026/the-history-of-concrete
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T202000Z
 DTEND:20261013T214000Z
 SUMMARY:NAZA — IFC Center
@@ -1329,7 +332,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:109815-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T202500Z
 DTEND:20261013T220900Z
 SUMMARY:Invisible Adversaries — Metrograph
@@ -1339,19 +342,8 @@ DESCRIPTION:Dir. VALIE EXPORT | 1976 | 104M | DCP | https://metrograph.co
 URL:https://metrograph.com/film/9999005019-invisible-adversaries/
 END:VEVENT
 BEGIN:VEVENT
-UID:109858-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T203000Z
-DTEND:20261013T222800Z
-SUMMARY:Korczak — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Andrzej Wajda | 1990 | 118M | https://filmforum.org/film
- /korczak-wajda-100
-URL:https://filmforum.org/film/korczak-wajda-100
-END:VEVENT
-BEGIN:VEVENT
 UID:95613-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T203000Z
 DTEND:20261013T215300Z
 SUMMARY:Ghost in the Shell — Metrograph
@@ -1363,7 +355,7 @@ URL:https://metrograph.com/film/9999000710-ghost-in-the-shell-30th-annive
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T203000Z
 DTEND:20261013T214300Z
 SUMMARY:Unzipped — Film Forum
@@ -1374,7 +366,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:109930-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T203000Z
 DTEND:20261013T213000Z
 SUMMARY:Man in Black — Museum of Modern Art
@@ -1385,7 +377,7 @@ URL:https://www.moma.org/calendar/events/11687
 END:VEVENT
 BEGIN:VEVENT
 UID:109619-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T203000Z
 DTEND:20261013T221500Z
 SUMMARY:Drinking and Driving — BAM
@@ -1395,8 +387,19 @@ DESCRIPTION:Dir. Avalon Fast | 2026 | 105M | DCP | https://www.bam.org/fi
 URL:https://www.bam.org/film/2026/drinking-and-driving
 END:VEVENT
 BEGIN:VEVENT
+UID:109858-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T203000Z
+DTEND:20261013T222800Z
+SUMMARY:Korczak — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Andrzej Wajda | 1990 | 118M | https://filmforum.org/film
+ /korczak-wajda-100
+URL:https://filmforum.org/film/korczak-wajda-100
+END:VEVENT
+BEGIN:VEVENT
 UID:110462-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T210000Z
 DTEND:20261013T222000Z
 SUMMARY:NAZA — BAM
@@ -1407,7 +410,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:110317-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T211500Z
 DTEND:20261013T222100Z
 SUMMARY:Galicia! — Roxy Cinema New York
@@ -1420,7 +423,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-ga
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T213500Z
 DTEND:20261013T225500Z
 SUMMARY:NAZA — IFC Center
@@ -1430,8 +433,30 @@ DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
 URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
+UID:108921-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T220000Z
+DTEND:20261013T232900Z
+SUMMARY:The Scout — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Paula González-Nasser | 2024 | 89M | https://filmforum.o
+ rg/film/the-scout
+URL:https://filmforum.org/film/the-scout
+END:VEVENT
+BEGIN:VEVENT
+UID:108958-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T220000Z
+DTEND:20261013T234100Z
+SUMMARY:The History of Concrete — Low Cinema
+LOCATION:Low Cinema
+DESCRIPTION:Dir. John Wilson | 2026 | 101M | Digital Video | https://lowc
+ inema.com/movie/the-history-of-concrete/
+URL:https://lowcinema.com/movie/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 UID:109630-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T220000Z
 DTEND:20261013T231900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -1443,30 +468,8 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
  Y7XQGWFA
 END:VEVENT
 BEGIN:VEVENT
-UID:108921-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T220000Z
-DTEND:20261013T232900Z
-SUMMARY:The Scout — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Paula González-Nasser | 2024 | 89M | https://filmforum.o
- rg/film/the-scout
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-UID:108958-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T220000Z
-DTEND:20261013T234100Z
-SUMMARY:The History of Concrete — Low Cinema
-LOCATION:Low Cinema
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | Digital Video | https://lowc
- inema.com/movie/the-history-of-concrete/
-URL:https://lowcinema.com/movie/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
 UID:109972-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T220500Z
 DTEND:20261014T003100Z
 SUMMARY:Fjord — IFC Center
@@ -1477,7 +480,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T221000Z
 DTEND:20261013T235500Z
 SUMMARY:The Disciple — IFC Center
@@ -1488,7 +491,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:109321-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T221500Z
 DTEND:20261013T234900Z
 SUMMARY:The Shameless Old Lady (La Vielle dame indigne)\n\n|  La Chinoise
@@ -1500,7 +503,7 @@ URL:https://lallianceny.org/event/theater/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T222000Z
 DTEND:20261013T233300Z
 SUMMARY:Unzipped — Film Forum
@@ -1511,7 +514,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:55685-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T222500Z
 DTEND:20261014T011800Z
 SUMMARY:Yi Yi — Metrograph
@@ -1521,8 +524,43 @@ DESCRIPTION:Dir. Edward Yang | 2000 | 173M | DCP | https://metrograph.com
 URL:https://metrograph.com/film/9999001293-yi-yi/
 END:VEVENT
 BEGIN:VEVENT
+UID:108807-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T223000Z
+DTEND:20261014T003000Z
+SUMMARY:Crouching Tiger\, Hidden Dragon — Museum of Modern Art
+LOCATION:Museum of Modern Art
+DESCRIPTION:Dir. Ang Lee | 2000 | 120M | DCP | https://www.moma.org/calen
+ dar/events/11646
+URL:https://www.moma.org/calendar/events/11646
+END:VEVENT
+BEGIN:VEVENT
+UID:107726-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T223000Z
+DTEND:20261013T235200Z
+SUMMARY:Vacances — Anthology Film Archives
+LOCATION:Anthology Film Archives
+DESCRIPTION:Dir. Victoria Hely-Hutchinson | 2025 | 82M | DCP | https://ww
+ w.anthologyfilmarchives.org/film_screenings/calendar?view=list&amp\;month
+ =10&amp\;year=2026#showing-62127
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
+ ist&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+UID:109978-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T223000Z
+DTEND:20261013T235700Z
+SUMMARY:Gothic — IFC Center
+LOCATION:IFC Center
+DESCRIPTION:Dir. Ken Russell | 1986 | 87M | https://www.ifccenter.com/fil
+ ms/gothic/
+URL:https://www.ifccenter.com/films/gothic/
+END:VEVENT
+BEGIN:VEVENT
 UID:109951-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T223000Z
 DTEND:20261014T001000Z
 SUMMARY:Once Upon a Time in Harlem — Columbia University Lenfest Center f
@@ -1537,54 +575,8 @@ URL:https://www.google.com/url?q=https://www.lenfest.arts.columbia.edu/fa
  3902413000&amp;usg=AOvVaw1eV_QTdOdnREsa1PzDBTMI
 END:VEVENT
 BEGIN:VEVENT
-UID:108807-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T223000Z
-DTEND:20261014T003000Z
-SUMMARY:Crouching Tiger\, Hidden Dragon — Museum of Modern Art
-LOCATION:Museum of Modern Art
-DESCRIPTION:Dir. Ang Lee | 2000 | 120M | DCP | https://www.moma.org/calen
- dar/events/11646
-URL:https://www.moma.org/calendar/events/11646
-END:VEVENT
-BEGIN:VEVENT
-UID:107726-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T223000Z
-DTEND:20261013T235200Z
-SUMMARY:Vacances — Anthology Film Archives
-LOCATION:Anthology Film Archives
-DESCRIPTION:Dir. Victoria Hely-Hutchinson | 2025 | 82M | DCP | https://ww
- w.anthologyfilmarchives.org/film_screenings/calendar?view=list&amp\;month
- =10&amp\;year=2026#showing-62127
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
- ist&amp;month=10&amp;year=2026#showing-62127
-END:VEVENT
-BEGIN:VEVENT
-UID:109978-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T223000Z
-DTEND:20261013T235700Z
-SUMMARY:Gothic — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Ken Russell | 1986 | 87M | https://www.ifccenter.com/fil
- ms/gothic/
-URL:https://www.ifccenter.com/films/gothic/
-END:VEVENT
-BEGIN:VEVENT
-UID:110461-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T224000Z
-DTEND:20261014T002100Z
-SUMMARY:The History of Concrete — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. John Wilson | 2026 | 101M | DCP | https://www.bam.org/fi
- lm/2026/the-history-of-concrete
-URL:https://www.bam.org/film/2026/the-history-of-concrete
-END:VEVENT
-BEGIN:VEVENT
 UID:109827-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T224000Z
 DTEND:20261014T011700Z
 SUMMARY:The Yellow Sea — Metrograph
@@ -1594,8 +586,52 @@ DESCRIPTION:Dir. Na Hong-jin | 2010 | 157M | DCP | https://metrograph.com
 URL:https://metrograph.com/film/9999005014-the-yellow-sea/
 END:VEVENT
 BEGIN:VEVENT
+UID:110461-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T224000Z
+DTEND:20261014T002100Z
+SUMMARY:The History of Concrete — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. John Wilson | 2026 | 101M | DCP | https://www.bam.org/fi
+ lm/2026/the-history-of-concrete
+URL:https://www.bam.org/film/2026/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:107237-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010300Z
+SUMMARY:Gloria — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. John Cassavetes | 1980 | 123M | https://filmforum.org/fi
+ lm/gloria-nyc-in-transit
+URL:https://filmforum.org/film/gloria-nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+UID:108966-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T230000Z
+DTEND:20261014T001800Z
+SUMMARY:Devil and the Deep — Nitehawk Cinema Prospect Park
+LOCATION:Nitehawk Cinema Prospect Park
+DESCRIPTION:Dir. Marion Gering | 1932 | 78M | 35mm | https://nitehawkcine
+ ma.com/prospectpark/movies/devil-and-the-deep/
+URL:https://nitehawkcinema.com/prospectpark/movies/devil-and-the-deep/
+END:VEVENT
+BEGIN:VEVENT
+UID:109798-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261013T230000Z
+DTEND:20261014T003000Z
+SUMMARY:Four Faces West — Light Industry
+LOCATION:Light Industry
+DESCRIPTION:Dir. Alfred E. Green | 1948 | 90M | 16mm | https://www.lighti
+ ndustry.org/narrow-westerns
+URL:https://www.lightindustry.org/narrow-westerns
+END:VEVENT
+BEGIN:VEVENT
 UID:109988-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261014T000000Z
 SUMMARY:When There Is No More Music to Write\, and Other Roman Stories — 
@@ -1607,7 +643,7 @@ URL:https://www.moma.org/calendar/events/11694
 END:VEVENT
 BEGIN:VEVENT
 UID:110318-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261014T002900Z
 SUMMARY:Tycoon — Roxy Cinema New York
@@ -1619,7 +655,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-ty
 END:VEVENT
 BEGIN:VEVENT
 UID:109171-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261014T000800Z
 SUMMARY:The Defendant — Czech Center
@@ -1630,7 +666,7 @@ URL:https://new-york.czechcentres.gov.cz/en/program/the-defendant
 END:VEVENT
 BEGIN:VEVENT
 UID:110177-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261014T010300Z
 SUMMARY:Gloria — Film Forum
@@ -1641,7 +677,7 @@ URL:https://filmforum.org/film/gloria-nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261014T002000Z
 SUMMARY:NAZA — BAM
@@ -1652,7 +688,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:107845-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261013T230500Z
 SUMMARY:Nancy's Nightmare\n\n|   Catscan\n\n|  Darling International\n\n|
@@ -1667,7 +703,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:110455-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T230000Z
 DTEND:20261013T232400Z
 SUMMARY:We\n\n|  Seasons of the Year\n\n|  Our Century — E-flux Screening
@@ -1680,41 +716,8 @@ URL:https://www.e-flux.com/events/6783395/film-at-a-distance-on-artavazd-
  peleshyan
 END:VEVENT
 BEGIN:VEVENT
-UID:107237-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T230000Z
-DTEND:20261014T010300Z
-SUMMARY:Gloria — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. John Cassavetes | 1980 | 123M | https://filmforum.org/fi
- lm/gloria-nyc-in-transit
-URL:https://filmforum.org/film/gloria-nyc-in-transit
-END:VEVENT
-BEGIN:VEVENT
-UID:108966-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T230000Z
-DTEND:20261014T001800Z
-SUMMARY:Devil and the Deep — Nitehawk Cinema Prospect Park
-LOCATION:Nitehawk Cinema Prospect Park
-DESCRIPTION:Dir. Marion Gering | 1932 | 78M | 35mm | https://nitehawkcine
- ma.com/prospectpark/movies/devil-and-the-deep/
-URL:https://nitehawkcinema.com/prospectpark/movies/devil-and-the-deep/
-END:VEVENT
-BEGIN:VEVENT
-UID:109798-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261013T230000Z
-DTEND:20261014T003000Z
-SUMMARY:Four Faces West — Light Industry
-LOCATION:Light Industry
-DESCRIPTION:Dir. Alfred E. Green | 1948 | 90M | 16mm | https://www.lighti
- ndustry.org/narrow-westerns
-URL:https://www.lightindustry.org/narrow-westerns
-END:VEVENT
-BEGIN:VEVENT
 UID:110370-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T231500Z
 DTEND:20261014T010100Z
 SUMMARY:Animals — Paris Theater
@@ -1725,7 +728,7 @@ URL:https://www.paristheaternyc.com/film/animals-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110176-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T232000Z
 DTEND:20261014T012600Z
 SUMMARY:My Undesirable Friends: Chapters 4-5: 1st Week Of War — Film Foru
@@ -1737,7 +740,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:110107-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T233000Z
 DTEND:20261014T003200Z
 SUMMARY:You Sorta Know It's Gonna End — Spectacle
@@ -1748,7 +751,7 @@ URL:https://www.spectacletheater.com/you-sorta-know-its-gonna-end/
 END:VEVENT
 BEGIN:VEVENT
 UID:110361-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T233000Z
 DTEND:20261014T010800Z
 SUMMARY:La Haine — Cobble Hill Cinemas
@@ -1759,7 +762,7 @@ URL:https://www.hk-cinemas.com/movie/la-haine
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261013T234000Z
 DTEND:20261014T010000Z
 SUMMARY:NAZA — IFC Center
@@ -1770,7 +773,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:109833-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T000500Z
 DTEND:20261014T013600Z
 SUMMARY:A Nightmare on Elm Street — Quad Cinema
@@ -1780,19 +783,8 @@ DESCRIPTION:Dir. Wes Craven | 1984 | 91M | DCP | https://quadcinema.com/f
 URL:https://quadcinema.com/film/a-nightmare-on-elm-street/
 END:VEVENT
 BEGIN:VEVENT
-UID:107254-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261014T001000Z
-DTEND:20261014T015000Z
-SUMMARY:Filipiñana — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Rafael Manuel | 2026 | 100M | DCP | https://filmforum.or
- g/film/filipinana
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
 UID:108926-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T001000Z
 DTEND:20261014T012300Z
 SUMMARY:Unzipped — Film Forum
@@ -1802,8 +794,19 @@ DESCRIPTION:Dir. Douglas Keeve | 1995 | 73M | https://filmforum.org/film/
 URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:107254-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261014T001000Z
+DTEND:20261014T015000Z
+SUMMARY:Filipiñana — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Rafael Manuel | 2026 | 100M | DCP | https://filmforum.or
+ g/film/filipinana
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 UID:108958-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T001500Z
 DTEND:20261014T015600Z
 SUMMARY:The History of Concrete — Low Cinema
@@ -1814,7 +817,7 @@ URL:https://lowcinema.com/movie/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109321-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T003000Z
 DTEND:20261014T020400Z
 SUMMARY:The Shameless Old Lady (La Vielle dame indigne)\n\n|  La Chinoise
@@ -1826,7 +829,7 @@ URL:https://lallianceny.org/event/theater/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T003500Z
 DTEND:20261014T021600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -1836,8 +839,30 @@ DESCRIPTION:Dir. John Wilson | 2026 | 101M | https://www.ifccenter.com/fi
 URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
+UID:73730-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261014T010000Z
+DTEND:20261014T025100Z
+SUMMARY:Tommy — IFC Center
+LOCATION:IFC Center
+DESCRIPTION:Dir. Ken Russell | 1975 | 111M | DCP | https://www.ifccenter.
+ com/films/tommy/
+URL:https://www.ifccenter.com/films/tommy/
+END:VEVENT
+BEGIN:VEVENT
+UID:110462-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261014T010000Z
+DTEND:20261014T022000Z
+SUMMARY:NAZA — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
+ ps://www.bam.org/film/2026/naza
+URL:https://www.bam.org/film/2026/naza
+END:VEVENT
+BEGIN:VEVENT
 UID:107726-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T010000Z
 DTEND:20261014T022200Z
 SUMMARY:Vacances — Anthology Film Archives
@@ -1850,7 +875,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109799-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T010000Z
 DTEND:20261014T023400Z
 SUMMARY:Ramrod — Light Industry
@@ -1860,30 +885,8 @@ DESCRIPTION:Dir. André de Toth | 1947 | 94M | 16mm | https://www.lightind
 URL:https://www.lightindustry.org/narrow-westerns
 END:VEVENT
 BEGIN:VEVENT
-UID:73730-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261014T010000Z
-DTEND:20261014T025100Z
-SUMMARY:Tommy — IFC Center
-LOCATION:IFC Center
-DESCRIPTION:Dir. Ken Russell | 1975 | 111M | DCP | https://www.ifccenter.
- com/films/tommy/
-URL:https://www.ifccenter.com/films/tommy/
-END:VEVENT
-BEGIN:VEVENT
-UID:110462-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261014T010000Z
-DTEND:20261014T022000Z
-SUMMARY:NAZA — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Yuval Abraham\,     Rachel Szor | 2026 | 80M | DCP | htt
- ps://www.bam.org/film/2026/naza
-URL:https://www.bam.org/film/2026/naza
-END:VEVENT
-BEGIN:VEVENT
 UID:108980-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T010500Z
 DTEND:20261014T024600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -1894,7 +897,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:110461-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T011000Z
 DTEND:20261014T025100Z
 SUMMARY:The History of Concrete — BAM
@@ -1905,7 +908,7 @@ URL:https://www.bam.org/film/2026/the-history-of-concrete
 END:VEVENT
 BEGIN:VEVENT
 UID:107847-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T011500Z
 DTEND:20261014T023900Z
 SUMMARY:Seduction: The Cruel Woman — Anthology Film Archives
@@ -1918,7 +921,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T012000Z
 DTEND:20261014T034600Z
 SUMMARY:Fjord — IFC Center
@@ -1928,31 +931,8 @@ DESCRIPTION:Dir. Cristian Mungiu | 2026 | 146M | https://www.ifccenter.co
 URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
-UID:109618-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261014T013000Z
-DTEND:20261014T033600Z
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
- fragmentary passage — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Louise Weard | 2026 | 126M | DCP\, Digibeta | https://ww
- w.bam.org/film/2026/castration-movie3
-URL:https://www.bam.org/film/2026/castration-movie3
-END:VEVENT
-BEGIN:VEVENT
-UID:109619-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261014T013000Z
-DTEND:20261014T031500Z
-SUMMARY:Drinking and Driving — BAM
-LOCATION:BAM
-DESCRIPTION:Dir. Avalon Fast | 2026 | 105M | DCP | https://www.bam.org/fi
- lm/2026/drinking-and-driving
-URL:https://www.bam.org/film/2026/drinking-and-driving
-END:VEVENT
-BEGIN:VEVENT
 UID:110320-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T013000Z
 DTEND:20261014T030000Z
 SUMMARY:The Chronicles of Shpongle — Roxy Cinema New York
@@ -1964,7 +944,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-ch
 END:VEVENT
 BEGIN:VEVENT
 UID:109837-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T013000Z
 DTEND:20261014T030100Z
 SUMMARY:Through the Looking Glass — Nitehawk Cinema Williamsburg
@@ -1975,8 +955,31 @@ URL:https://nitehawkcinema.com/williamsburg/movies/through-the-looking-gl
  ass/
 END:VEVENT
 BEGIN:VEVENT
+UID:109618-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261014T013000Z
+DTEND:20261014T033600Z
+SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
+ fragmentary passage — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. Louise Weard | 2026 | 126M | DCP\, Digibeta | https://ww
+ w.bam.org/film/2026/castration-movie3
+URL:https://www.bam.org/film/2026/castration-movie3
+END:VEVENT
+BEGIN:VEVENT
+UID:109619-20261013@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261014T013000Z
+DTEND:20261014T031500Z
+SUMMARY:Drinking and Driving — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. Avalon Fast | 2026 | 105M | DCP | https://www.bam.org/fi
+ lm/2026/drinking-and-driving
+URL:https://www.bam.org/film/2026/drinking-and-driving
+END:VEVENT
+BEGIN:VEVENT
 UID:94956-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T014000Z
 DTEND:20261014T031300Z
 SUMMARY:The Double — Metrograph
@@ -1987,7 +990,7 @@ URL:https://metrograph.com/film/?vista_film_id=9999003939
 END:VEVENT
 BEGIN:VEVENT
 UID:91557-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T014500Z
 DTEND:20261014T031500Z
 SUMMARY:Women on the Verge of a Nervous Breakdown — Metrograph
@@ -1999,7 +1002,7 @@ URL:https://metrograph.com/film/9999003126-women-on-the-verge-of-a-nervou
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T014500Z
 DTEND:20261014T030500Z
 SUMMARY:NAZA — IFC Center
@@ -2010,7 +1013,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110370-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T015500Z
 DTEND:20261014T034100Z
 SUMMARY:Animals — Paris Theater
@@ -2021,7 +1024,7 @@ URL:https://www.paristheaternyc.com/film/animals-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110092-20261013@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T020000Z
 DTEND:20261014T032800Z
 SUMMARY:Die Hard Dracula — Spectacle
@@ -2032,7 +1035,7 @@ URL:https://www.spectacletheater.com/die-hard-dracula/
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T143500Z
 DTEND:20261014T155500Z
 SUMMARY:NAZA — IFC Center
@@ -2043,7 +1046,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T144500Z
 DTEND:20261014T163000Z
 SUMMARY:The Disciple — IFC Center
@@ -2054,7 +1057,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T151500Z
 DTEND:20261014T165600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2065,7 +1068,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T153000Z
 DTEND:20261014T175600Z
 SUMMARY:Fjord — IFC Center
@@ -2076,7 +1079,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:109857-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T161500Z
 DTEND:20261014T181700Z
 SUMMARY:Katyn — Film Forum
@@ -2087,7 +1090,7 @@ URL:https://filmforum.org/film/katyn-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T162000Z
 DTEND:20261014T174000Z
 SUMMARY:NAZA — IFC Center
@@ -2098,7 +1101,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T165000Z
 DTEND:20261014T180300Z
 SUMMARY:Unzipped — Film Forum
@@ -2109,7 +1112,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T165500Z
 DTEND:20261014T183600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2120,7 +1123,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:108921-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T170000Z
 DTEND:20261014T182900Z
 SUMMARY:The Scout — Film Forum
@@ -2131,7 +1134,7 @@ URL:https://filmforum.org/film/the-scout
 END:VEVENT
 BEGIN:VEVENT
 UID:110175-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T170000Z
 DTEND:20261014T225500Z
 SUMMARY:My Undesirable Friends: Park II - Exile — Film Forum
@@ -2142,7 +1145,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:108052-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T170000Z
 DTEND:20261014T203500Z
 SUMMARY:Cosi Fan Tutte — Film at Lincoln Center
@@ -2153,7 +1156,7 @@ URL:https://www.filmlinc.org/films/cosi-fan-tutte/
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T170000Z
 DTEND:20261014T181900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -2166,7 +1169,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T171000Z
 DTEND:20261014T185500Z
 SUMMARY:The Disciple — IFC Center
@@ -2177,7 +1180,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:110245-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T171500Z
 DTEND:20261014T183800Z
 SUMMARY:André Leon Talley: Style Is Forever — IFC Center
@@ -2188,7 +1191,7 @@ URL:https://www.ifccenter.com/films/andre-leon-talley-style-is-forever/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T173000Z
 DTEND:20261014T191100Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2199,7 +1202,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:110322-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T180000Z
 DTEND:20261014T200000Z
 SUMMARY:Signals in the Distance - Selection of Short Films — Roxy Cinema 
@@ -2212,7 +1215,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-si
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T182000Z
 DTEND:20261014T194000Z
 SUMMARY:NAZA — IFC Center
@@ -2223,7 +1226,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T184000Z
 DTEND:20261014T195300Z
 SUMMARY:Unzipped — Film Forum
@@ -2234,7 +1237,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T184500Z
 DTEND:20261014T211100Z
 SUMMARY:Fjord — IFC Center
@@ -2245,7 +1248,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:109867-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T184500Z
 DTEND:20261014T202400Z
 SUMMARY:The Birch Wood — Film Forum
@@ -2256,7 +1259,7 @@ URL:https://filmforum.org/film/the-birch-wood-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T190000Z
 DTEND:20261014T201900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -2269,7 +1272,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:107254-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T192000Z
 DTEND:20261014T210000Z
 SUMMARY:Filipiñana — Film Forum
@@ -2280,7 +1283,7 @@ URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T192000Z
 DTEND:20261014T204000Z
 SUMMARY:NAZA — IFC Center
@@ -2291,7 +1294,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:109974-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T192500Z
 DTEND:20261014T214200Z
 SUMMARY:The Boy Friend — IFC Center
@@ -2302,7 +1305,7 @@ URL:https://www.ifccenter.com/films/the-boy-friend/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T194000Z
 DTEND:20261014T212100Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2313,7 +1316,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:110461-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T201500Z
 DTEND:20261014T215600Z
 SUMMARY:The History of Concrete — BAM
@@ -2324,7 +1327,7 @@ URL:https://www.bam.org/film/2026/the-history-of-concrete
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T202000Z
 DTEND:20261014T214000Z
 SUMMARY:NAZA — IFC Center
@@ -2335,7 +1338,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:109931-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T203000Z
 DTEND:20261014T221700Z
 SUMMARY:Letters Home — Museum of Modern Art
@@ -2346,7 +1349,7 @@ URL:https://www.moma.org/calendar/events/11688
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T203000Z
 DTEND:20261014T214300Z
 SUMMARY:Unzipped — Film Forum
@@ -2357,7 +1360,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:110324-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T210000Z
 DTEND:20261014T224100Z
 SUMMARY:Little Miss Sun Sign — Roxy Cinema New York
@@ -2369,7 +1372,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-li
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T210000Z
 DTEND:20261014T222000Z
 SUMMARY:NAZA — BAM
@@ -2380,7 +1383,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:109868-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T212000Z
 DTEND:20261014T231800Z
 SUMMARY:The Maids of Wilko — Film Forum
@@ -2391,7 +1394,7 @@ URL:https://filmforum.org/film/the-maids-of-wilko-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T213500Z
 DTEND:20261014T225500Z
 SUMMARY:NAZA — IFC Center
@@ -2402,7 +1405,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110464-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T220000Z
 DTEND:20261014T233800Z
 SUMMARY:The Good Fight — Low Cinema
@@ -2413,7 +1416,7 @@ URL:https://lowcinema.com/movie/the-good-fight/
 END:VEVENT
 BEGIN:VEVENT
 UID:108921-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T220000Z
 DTEND:20261014T232900Z
 SUMMARY:The Scout — Film Forum
@@ -2424,7 +1427,7 @@ URL:https://filmforum.org/film/the-scout
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T220500Z
 DTEND:20261015T003100Z
 SUMMARY:Fjord — IFC Center
@@ -2435,7 +1438,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T221000Z
 DTEND:20261014T235500Z
 SUMMARY:The Disciple — IFC Center
@@ -2446,7 +1449,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T222000Z
 DTEND:20261014T233300Z
 SUMMARY:Unzipped — Film Forum
@@ -2457,7 +1460,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:109977-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T223000Z
 DTEND:20261015T002800Z
 SUMMARY:Lisztomania — IFC Center
@@ -2468,7 +1471,7 @@ URL:https://www.ifccenter.com/films/lisztomania/
 END:VEVENT
 BEGIN:VEVENT
 UID:110175-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T223000Z
 DTEND:20261015T042500Z
 SUMMARY:My Undesirable Friends: Park II - Exile — Film Forum
@@ -2479,7 +1482,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:110461-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T224000Z
 DTEND:20261015T002100Z
 SUMMARY:The History of Concrete — BAM
@@ -2490,7 +1493,7 @@ URL:https://www.bam.org/film/2026/the-history-of-concrete
 END:VEVENT
 BEGIN:VEVENT
 UID:109639-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T224500Z
 DTEND:20261014T235800Z
 SUMMARY:Edie Arnold Is a Loser — Nitehawk Cinema Prospect Park
@@ -2502,7 +1505,7 @@ URL:https://nitehawkcinema.com/prospectpark/movies/edie-arnold-is-a-loser
 END:VEVENT
 BEGIN:VEVENT
 UID:110373-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T230000Z
 DTEND:20261015T004800Z
 SUMMARY:Querelle — Paris Theater
@@ -2513,7 +1516,7 @@ URL:https://www.paristheaternyc.com/film/querelle-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T230000Z
 DTEND:20261015T002000Z
 SUMMARY:NAZA — BAM
@@ -2524,7 +1527,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:109736-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T230000Z
 DTEND:20261015T005200Z
 SUMMARY:A Land Within — Goethe-Institut New York
@@ -2537,7 +1540,7 @@ URL:https://www.eventbrite.com/e/german-movie-nights-a-land-within-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:110197-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T230000Z
 DTEND:20261015T000400Z
 SUMMARY:Invisible Ghost — Nightclub 101
@@ -2548,7 +1551,7 @@ URL:https://99minutes.substack.com/p/october-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:109763-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T230000Z
 DTEND:20261015T003200Z
 SUMMARY:Calle Cuba\n\n|  Ángela — BAM
@@ -2559,7 +1562,7 @@ URL:https://www.bam.org/film/2026/caribbean-film-series2-calle-cuba
 END:VEVENT
 BEGIN:VEVENT
 UID:110184-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T230000Z
 DTEND:20261015T005500Z
 SUMMARY:No Home Movie — Museum of Modern Art
@@ -2570,7 +1573,7 @@ URL:https://www.moma.org/calendar/events/11695
 END:VEVENT
 BEGIN:VEVENT
 UID:110096-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T233000Z
 DTEND:20261015T012600Z
 SUMMARY:Shock Infinity — Spectacle
@@ -2581,7 +1584,7 @@ URL:https://www.spectacletheater.com/shock-infinity/
 END:VEVENT
 BEGIN:VEVENT
 UID:110400-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T233000Z
 DTEND:20261015T000500Z
 SUMMARY:Sylph\n\n|  Wolf Moon — Millennium Film Workshop
@@ -2594,7 +1597,7 @@ URL:https://www.millenniumfilm.org/event-details/almeda-morgan-aka-slimeb
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T234000Z
 DTEND:20261015T010000Z
 SUMMARY:NAZA — IFC Center
@@ -2605,7 +1608,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:109863-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261014T235000Z
 DTEND:20261015T015400Z
 SUMMARY:Walesa: Man of Hope — Film Forum
@@ -2616,7 +1619,7 @@ URL:https://filmforum.org/film/walesa-man-of-hope-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:110326-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T000000Z
 DTEND:20261015T020000Z
 SUMMARY:Sensing Systems — Roxy Cinema New York
@@ -2629,7 +1632,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-se
 END:VEVENT
 BEGIN:VEVENT
 UID:109833-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T001000Z
 DTEND:20261015T014100Z
 SUMMARY:A Nightmare on Elm Street — Quad Cinema
@@ -2640,7 +1643,7 @@ URL:https://quadcinema.com/film/a-nightmare-on-elm-street/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T001000Z
 DTEND:20261015T012300Z
 SUMMARY:Unzipped — Film Forum
@@ -2651,7 +1654,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:107254-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T001000Z
 DTEND:20261015T015000Z
 SUMMARY:Filipiñana — Film Forum
@@ -2662,7 +1665,7 @@ URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 UID:110464-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T001500Z
 DTEND:20261015T015300Z
 SUMMARY:The Good Fight — Low Cinema
@@ -2673,7 +1676,7 @@ URL:https://lowcinema.com/movie/the-good-fight/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T003500Z
 DTEND:20261015T021600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2684,7 +1687,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109975-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T010000Z
 DTEND:20261015T031100Z
 SUMMARY:Women in Love — IFC Center
@@ -2695,7 +1698,7 @@ URL:https://www.ifccenter.com/films/women-in-love/
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T010000Z
 DTEND:20261015T022000Z
 SUMMARY:NAZA — BAM
@@ -2706,7 +1709,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T010500Z
 DTEND:20261015T024600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2717,7 +1720,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T012000Z
 DTEND:20261015T034600Z
 SUMMARY:Fjord — IFC Center
@@ -2728,7 +1731,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:109906-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T013000Z
 DTEND:20261015T022100Z
 SUMMARY:Devilman: The Rebirth\n\n|  Devilman: Demon Bird Sirène — Nitehaw
@@ -2741,7 +1744,7 @@ URL:https://nitehawkcinema.com/prospectpark/movies/devilman-double-featur
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T013000Z
 DTEND:20261015T024900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -2754,7 +1757,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T014500Z
 DTEND:20261015T030500Z
 SUMMARY:NAZA — IFC Center
@@ -2765,7 +1768,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110374-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T014500Z
 DTEND:20261015T031100Z
 SUMMARY:Sebastiane — Paris Theater
@@ -2776,7 +1779,7 @@ URL:https://www.paristheaternyc.com/film/sebastiane-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110094-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T020000Z
 DTEND:20261015T030800Z
 SUMMARY:Morbid Weekend — Spectacle
@@ -2787,7 +1790,7 @@ URL:https://www.spectacletheater.com/morbid-weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:110328-20261014@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T021500Z
 DTEND:20261015T025600Z
 SUMMARY:Fellas — Roxy Cinema New York
@@ -2799,7 +1802,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-fe
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T143500Z
 DTEND:20261015T155500Z
 SUMMARY:NAZA — IFC Center
@@ -2810,7 +1813,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T144500Z
 DTEND:20261015T163000Z
 SUMMARY:The Disciple — IFC Center
@@ -2821,7 +1824,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T151500Z
 DTEND:20261015T165600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2832,7 +1835,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T153000Z
 DTEND:20261015T175600Z
 SUMMARY:Fjord — IFC Center
@@ -2843,7 +1846,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:110175-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T161500Z
 DTEND:20261015T221000Z
 SUMMARY:My Undesirable Friends: Park II - Exile — Film Forum
@@ -2854,7 +1857,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T162000Z
 DTEND:20261015T174000Z
 SUMMARY:NAZA — IFC Center
@@ -2865,7 +1868,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:107254-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T162000Z
 DTEND:20261015T180000Z
 SUMMARY:Filipiñana — Film Forum
@@ -2876,7 +1879,7 @@ URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 UID:109869-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T164000Z
 DTEND:20261015T182100Z
 SUMMARY:The Conductor — Film Forum
@@ -2887,7 +1890,7 @@ URL:https://filmforum.org/film/the-conductor-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T165000Z
 DTEND:20261015T180300Z
 SUMMARY:Unzipped — Film Forum
@@ -2898,7 +1901,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T165500Z
 DTEND:20261015T183600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -2909,7 +1912,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:110370-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T170000Z
 DTEND:20261015T184600Z
 SUMMARY:Animals — Paris Theater
@@ -2920,7 +1923,7 @@ URL:https://www.paristheaternyc.com/film/animals-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T171000Z
 DTEND:20261015T185500Z
 SUMMARY:The Disciple — IFC Center
@@ -2931,7 +1934,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:92422-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T173000Z
 DTEND:20261015T192300Z
 SUMMARY:Crimes of Passion — IFC Center
@@ -2942,7 +1945,7 @@ URL:https://www.ifccenter.com/films/crimes-of-passion/
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T180000Z
 DTEND:20261015T191900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -2955,7 +1958,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:107254-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T183500Z
 DTEND:20261015T201500Z
 SUMMARY:Filipiñana — Film Forum
@@ -2966,7 +1969,7 @@ URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T184000Z
 DTEND:20261015T195300Z
 SUMMARY:Unzipped — Film Forum
@@ -2977,7 +1980,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T184500Z
 DTEND:20261015T211100Z
 SUMMARY:Fjord — IFC Center
@@ -2988,7 +1991,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:109871-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T190000Z
 DTEND:20261015T204100Z
 SUMMARY:Landscape After Battle — Film Forum
@@ -2999,7 +2002,7 @@ URL:https://filmforum.org/film/landscape-after-battle-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:110245-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T192000Z
 DTEND:20261015T204300Z
 SUMMARY:André Leon Talley: Style Is Forever — IFC Center
@@ -3010,7 +2013,7 @@ URL:https://www.ifccenter.com/films/andre-leon-talley-style-is-forever/
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T194000Z
 DTEND:20261015T212100Z
 SUMMARY:The History of Concrete — IFC Center
@@ -3021,7 +2024,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T194500Z
 DTEND:20261015T210400Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -3034,7 +2037,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:110176-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T200000Z
 DTEND:20261015T220600Z
 SUMMARY:My Undesirable Friends: Chapters 4-5: 1st Week Of War — Film Foru
@@ -3046,7 +2049,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:110461-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T200000Z
 DTEND:20261015T214100Z
 SUMMARY:The History of Concrete — BAM
@@ -3057,7 +2060,7 @@ URL:https://www.bam.org/film/2026/the-history-of-concrete
 END:VEVENT
 BEGIN:VEVENT
 UID:109928-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T200000Z
 DTEND:20261015T215400Z
 SUMMARY:Un Film dramatique — Museum of Modern Art
@@ -3068,7 +2071,7 @@ URL:https://www.moma.org/calendar/events/11686
 END:VEVENT
 BEGIN:VEVENT
 UID:110370-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T200000Z
 DTEND:20261015T214600Z
 SUMMARY:Animals — Paris Theater
@@ -3079,7 +2082,7 @@ URL:https://www.paristheaternyc.com/film/animals-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T201500Z
 DTEND:20261015T220600Z
 SUMMARY:The Devils — BAM
@@ -3090,7 +2093,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109978-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T201500Z
 DTEND:20261015T214200Z
 SUMMARY:Gothic — IFC Center
@@ -3101,7 +2104,7 @@ URL:https://www.ifccenter.com/films/gothic/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T203000Z
 DTEND:20261015T214300Z
 SUMMARY:Unzipped — Film Forum
@@ -3112,7 +2115,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:107254-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T204500Z
 DTEND:20261015T222500Z
 SUMMARY:Filipiñana — Film Forum
@@ -3123,7 +2126,7 @@ URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 UID:110342-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T210000Z
 DTEND:20261015T220000Z
 SUMMARY:The Story of Eve — Roxy Cinema New York
@@ -3135,7 +2138,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-th
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T210000Z
 DTEND:20261015T222000Z
 SUMMARY:NAZA — BAM
@@ -3146,7 +2149,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:109867-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T213000Z
 DTEND:20261015T230900Z
 SUMMARY:The Birch Wood — Film Forum
@@ -3157,7 +2160,7 @@ URL:https://filmforum.org/film/the-birch-wood-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T213500Z
 DTEND:20261015T225500Z
 SUMMARY:NAZA — IFC Center
@@ -3168,7 +2171,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110243-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T221000Z
 DTEND:20261015T235500Z
 SUMMARY:The Disciple — IFC Center
@@ -3179,7 +2182,7 @@ URL:https://www.ifccenter.com/films/the-disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T222000Z
 DTEND:20261015T233300Z
 SUMMARY:Unzipped — Film Forum
@@ -3190,7 +2193,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:109323-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T223000Z
 DTEND:20261016T003000Z
 SUMMARY:Sauve la vie (qui peut): A Reconstruction — L'Alliance New York
@@ -3201,7 +2204,7 @@ URL:https://lallianceny.org/event/sauve-la-vie-qui-peut/
 END:VEVENT
 BEGIN:VEVENT
 UID:110189-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T223000Z
 DTEND:20261015T225400Z
 SUMMARY:Intermède\n\n|  Le chant des oubliés — Museum of Modern Art
@@ -3212,7 +2215,7 @@ URL:https://www.moma.org/calendar/events/11696
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T223500Z
 DTEND:20261016T001600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -3223,7 +2226,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T224500Z
 DTEND:20261016T003600Z
 SUMMARY:The Devils — BAM
@@ -3234,7 +2237,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110178-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T230000Z
 DTEND:20261016T004000Z
 SUMMARY:Once Upon a Time in Harlem — Film Forum
@@ -3245,7 +2248,7 @@ URL:https://filmforum.org/film/once-upon-a-time-in-harlem
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T230000Z
 DTEND:20261016T002000Z
 SUMMARY:NAZA — BAM
@@ -3256,7 +2259,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:107870-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T230000Z
 DTEND:20261015T232000Z
 SUMMARY:Sunflower Lane: Cycles — Anthology Film Archives
@@ -3270,7 +2273,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109767-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T230000Z
 DTEND:20261015T231800Z
 SUMMARY:Agwe\n\n|  Dreams Like Paper Boats\n\n|  Blue Heart\n\n|  Panyen 
@@ -3282,7 +2285,7 @@ URL:https://www.bam.org/film/2026/caribbean-film-series2-les-vagues
 END:VEVENT
 BEGIN:VEVENT
 UID:108986-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T230000Z
 DTEND:20261016T013900Z
 SUMMARY:La Bola Negra — SVA Theatre
@@ -3293,7 +2296,7 @@ URL:https://newfest.org/events/labolanegraopeningnightscreeningandparty/
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T230500Z
 DTEND:20261016T014400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3304,7 +2307,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110344-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T231500Z
 DTEND:20261016T010400Z
 SUMMARY:Chelsea Walls — Roxy Cinema New York
@@ -3316,7 +2319,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-ch
 END:VEVENT
 BEGIN:VEVENT
 UID:110176-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T232000Z
 DTEND:20261016T012600Z
 SUMMARY:My Undesirable Friends: Chapters 4-5: 1st Week Of War — Film Foru
@@ -3328,7 +2331,7 @@ URL:https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 END:VEVENT
 BEGIN:VEVENT
 UID:107865-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T233000Z
 DTEND:20261016T000500Z
 SUMMARY:Les fantômes Du Hard\, Chapter 1\n\n|  Les Fantômes Du Hard 2\n\n
@@ -3342,7 +2345,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109868-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T234000Z
 DTEND:20261016T013800Z
 SUMMARY:The Maids of Wilko — Film Forum
@@ -3353,7 +2356,7 @@ URL:https://filmforum.org/film/the-maids-of-wilko-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261015T234000Z
 DTEND:20261016T010000Z
 SUMMARY:NAZA — IFC Center
@@ -3364,7 +2367,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:108926-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T001000Z
 DTEND:20261016T012300Z
 SUMMARY:Unzipped — Film Forum
@@ -3375,7 +2378,7 @@ URL:https://filmforum.org/film/unzipped-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T003500Z
 DTEND:20261016T021600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -3386,7 +2389,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:110462-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T010000Z
 DTEND:20261016T022000Z
 SUMMARY:NAZA — BAM
@@ -3397,7 +2400,7 @@ URL:https://www.bam.org/film/2026/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:108980-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T010500Z
 DTEND:20261016T024600Z
 SUMMARY:The History of Concrete — IFC Center
@@ -3408,7 +2411,7 @@ URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T011500Z
 DTEND:20261016T030600Z
 SUMMARY:The Devils — BAM
@@ -3419,7 +2422,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109972-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T012000Z
 DTEND:20261016T034600Z
 SUMMARY:Fjord — IFC Center
@@ -3430,7 +2433,7 @@ URL:https://www.ifccenter.com/films/fjord/
 END:VEVENT
 BEGIN:VEVENT
 UID:109630-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T013000Z
 DTEND:20261016T024900Z
 SUMMARY:Comparsa — Firehouse: DCTV’s Cinema for Documentary Film
@@ -3443,7 +2446,7 @@ URL:https://www.dctvny.org/s/firehouse-film/comparsa-MCS6IFNWO4U5F7HB534A
 END:VEVENT
 BEGIN:VEVENT
 UID:109664-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T014500Z
 DTEND:20261016T030500Z
 SUMMARY:NAZA — IFC Center
@@ -3454,7 +2457,7 @@ URL:https://www.ifccenter.com/films/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:110346-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T020000Z
 DTEND:20261016T033200Z
 SUMMARY:Dites-lui que je l’aime (Tell Her That I Love Her) — Roxy Cinema 
@@ -3468,7 +2471,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-te
 END:VEVENT
 BEGIN:VEVENT
 UID:110100-20261015@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T020000Z
 DTEND:20261016T042700Z
 SUMMARY:Les Proies du Mals — Spectacle
@@ -3479,7 +2482,7 @@ URL:https://www.spectacletheater.com/les-proies-du-mal/
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T145500Z
 DTEND:20261016T173400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3490,7 +2493,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109860-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T163000Z
 DTEND:20261016T191000Z
 SUMMARY:Man of Marble — Film Forum
@@ -3501,7 +2504,7 @@ URL:https://filmforum.org/film/man-of-marble-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T171500Z
 DTEND:20261016T190600Z
 SUMMARY:The Devils — BAM
@@ -3512,7 +2515,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T183500Z
 DTEND:20261016T211400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3523,7 +2526,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T190000Z
 DTEND:20261016T202800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -3536,7 +2539,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:109861-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T200000Z
 DTEND:20261016T223600Z
 SUMMARY:Man of Iron — Film Forum
@@ -3547,7 +2550,7 @@ URL:https://filmforum.org/film/man-of-iron-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T201500Z
 DTEND:20261016T220600Z
 SUMMARY:The Devils — BAM
@@ -3558,7 +2561,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110137-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T201500Z
 DTEND:20261016T221500Z
 SUMMARY:Socrates — Metrograph
@@ -3569,7 +2572,7 @@ URL:https://metrograph.com/film/9999005024-socrates/
 END:VEVENT
 BEGIN:VEVENT
 UID:110192-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T203000Z
 DTEND:20261016T210900Z
 SUMMARY:All the Children but One\n\n|  Story told by Jean Dougnac — Museu
@@ -3581,7 +2584,7 @@ URL:https://www.moma.org/calendar/events/11692
 END:VEVENT
 BEGIN:VEVENT
 UID:109808-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T203000Z
 DTEND:20261016T220400Z
 SUMMARY:Midnight in Paris — Metrograph
@@ -3592,7 +2595,7 @@ URL:https://metrograph.com/film/9999005018-midnight-in-paris/
 END:VEVENT
 BEGIN:VEVENT
 UID:110348-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T210000Z
 DTEND:20261016T223500Z
 SUMMARY:The Water is Always Warm — Roxy Cinema New York
@@ -3604,7 +2607,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-th
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T210000Z
 DTEND:20261016T222800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -3617,7 +2620,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T221500Z
 DTEND:20261017T005400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3628,7 +2631,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:107874-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T224500Z
 DTEND:20261016T225700Z
 SUMMARY:Sexual Fantasy Party\n\n|  Sweet Dreams\n\n|  Wardell Pomeroy Tak
@@ -3642,7 +2645,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T224500Z
 DTEND:20261017T003600Z
 SUMMARY:The Devils — BAM
@@ -3653,7 +2656,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T230000Z
 DTEND:20261017T002800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -3666,7 +2669,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:110043-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T230000Z
 DTEND:20261017T002900Z
 SUMMARY:Tortured Dust — Film-Makers’ Coop
@@ -3678,7 +2681,7 @@ URL:https://filmmakerscoop.ecwid.com/Empty-Nest-Stan-Brakhages-TORTURED-D
 END:VEVENT
 BEGIN:VEVENT
 UID:110186-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T230000Z
 DTEND:20261017T005000Z
 SUMMARY:Demain on déménage (Tomorrow We Move) — Museum of Modern Art
@@ -3689,7 +2692,7 @@ URL:https://www.moma.org/calendar/events/11697
 END:VEVENT
 BEGIN:VEVENT
 UID:110349-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T230000Z
 DTEND:20261017T003900Z
 SUMMARY:Amoeba — Roxy Cinema New York
@@ -3701,7 +2704,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-am
 END:VEVENT
 BEGIN:VEVENT
 UID:109864-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T231000Z
 DTEND:20261017T021000Z
 SUMMARY:The Promised Land — Film Forum
@@ -3712,7 +2715,7 @@ URL:https://filmforum.org/film/the-promised-land-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:110411-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T233000Z
 DTEND:20261016T233400Z
 SUMMARY:The Proletariat\n\n|  Big Ronda's Ointment Surprise\n\n|  Cottonm
@@ -3726,7 +2729,7 @@ URL:https://www.millenniumfilm.org/event-details/first-drafts
 END:VEVENT
 BEGIN:VEVENT
 UID:110094-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261016T233000Z
 DTEND:20261017T003800Z
 SUMMARY:Morbid Weekend — Spectacle
@@ -3737,7 +2740,7 @@ URL:https://www.spectacletheater.com/morbid-weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:107879-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T004500Z
 DTEND:20261017T010800Z
 SUMMARY:Just What can you do\n\n|  Touching\n\n|  Artist's Fantasy\n\n|  
@@ -3751,7 +2754,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T011500Z
 DTEND:20261017T030600Z
 SUMMARY:The Devils — BAM
@@ -3762,7 +2765,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110134-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T013000Z
 DTEND:20261017T031800Z
 SUMMARY:The Terminator — Metrograph
@@ -3773,7 +2776,7 @@ URL:https://metrograph.com/film/9999000719-the-terminator/
 END:VEVENT
 BEGIN:VEVENT
 UID:110351-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T013000Z
 DTEND:20261017T025900Z
 SUMMARY:Cabaret Boys — Roxy Cinema New York
@@ -3785,7 +2788,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:109834-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T013500Z
 DTEND:20261017T031100Z
 SUMMARY:The Fly — Quad Cinema
@@ -3796,7 +2799,7 @@ URL:https://quadcinema.com/film/the-fly/
 END:VEVENT
 BEGIN:VEVENT
 UID:110096-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T020000Z
 DTEND:20261017T035600Z
 SUMMARY:Shock Infinity — Spectacle
@@ -3807,7 +2810,7 @@ URL:https://www.spectacletheater.com/shock-infinity/
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T022000Z
 DTEND:20261017T045900Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3818,7 +2821,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110103-20261016@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T035500Z
 DTEND:20261017T051500Z
 SUMMARY:Alien Zone — Spectacle
@@ -3829,7 +2832,7 @@ URL:https://www.spectacletheater.com/alien-zone/
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T145500Z
 DTEND:20261017T173400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3840,7 +2843,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109468-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T150000Z
 DTEND:20261017T165000Z
 SUMMARY:The Addams Family — Nitehawk Cinema Prospect Park
@@ -3850,8 +2853,20 @@ DESCRIPTION:Dir. Barry Sonnenfeld | 1991 | 110M | DCP | https://nitehawkc
 URL:https://nitehawkcinema.com/prospectpark/movies/the-addams-family/
 END:VEVENT
 BEGIN:VEVENT
+UID:110352-20261017@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261017T160000Z
+DTEND:20261017T173500Z
+SUMMARY:The Projectionist — Roxy Cinema New York
+LOCATION:Roxy Cinema New York
+DESCRIPTION:Dir. Alexandre Rockwell | 2026 | 95M | DCP | https://www.roxy
+ cinemanewyork.com/screenings/the-downtown-festival-the-projectionist-qa/
+URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-th
+ e-projectionist-qa/
+END:VEVENT
+BEGIN:VEVENT
 UID:109952-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T160000Z
 DTEND:20261017T172900Z
 SUMMARY:Arco — Columbia University Lenfest Center for the Arts
@@ -3866,7 +2881,7 @@ URL:https://www.google.com/url?q=https://www.lenfest.arts.columbia.edu/fa
 END:VEVENT
 BEGIN:VEVENT
 UID:109888-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T160000Z
 DTEND:20261017T174300Z
 SUMMARY:Vampire's Kiss — Nitehawk Cinema Prospect Park
@@ -3876,20 +2891,8 @@ DESCRIPTION:Dir. Robert Bierman | 1988 | 103M | 35mm | https://nitehawkci
 URL:https://nitehawkcinema.com/prospectpark/movies/vampires-kiss/
 END:VEVENT
 BEGIN:VEVENT
-UID:110352-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261017T160000Z
-DTEND:20261017T173500Z
-SUMMARY:The Projectionist — Roxy Cinema New York
-LOCATION:Roxy Cinema New York
-DESCRIPTION:Dir. Alexandre Rockwell | 2026 | 95M | DCP | https://www.roxy
- cinemanewyork.com/screenings/the-downtown-festival-the-projectionist-qa/
-URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-th
- e-projectionist-qa/
-END:VEVENT
-BEGIN:VEVENT
 UID:109873-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T165000Z
 DTEND:20261017T182800Z
 SUMMARY:Siberian Lady Macbeth — Film Forum
@@ -3900,7 +2903,7 @@ URL:https://filmforum.org/film/siberian-lady-macbeth-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T171500Z
 DTEND:20261017T190600Z
 SUMMARY:The Devils — BAM
@@ -3911,7 +2914,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T180000Z
 DTEND:20261017T192800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -3924,7 +2927,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:110354-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T183000Z
 DTEND:20261017T201100Z
 SUMMARY:Surfaces and the Self - Selection of Short Films — Roxy Cinema Ne
@@ -3938,7 +2941,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-su
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T183500Z
 DTEND:20261017T211400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -3949,7 +2952,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109871-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T191000Z
 DTEND:20261017T205100Z
 SUMMARY:Landscape After Battle — Film Forum
@@ -3960,7 +2963,7 @@ URL:https://filmforum.org/film/landscape-after-battle-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109933-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T200000Z
 DTEND:20261017T211000Z
 SUMMARY:South\n\n|  The Day When... — Museum of Modern Art
@@ -3971,7 +2974,7 @@ URL:https://www.moma.org/calendar/events/11689
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T201500Z
 DTEND:20261017T220600Z
 SUMMARY:The Devils — BAM
@@ -3982,7 +2985,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110100-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T210000Z
 DTEND:20261017T232700Z
 SUMMARY:Les Proies du Mals — Spectacle
@@ -3993,7 +2996,7 @@ URL:https://www.spectacletheater.com/les-proies-du-mal/
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T210000Z
 DTEND:20261017T222800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -4005,19 +3008,8 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
  7NC2BELFKIJEC6AU2Q
 END:VEVENT
 BEGIN:VEVENT
-UID:109869-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261017T213000Z
-DTEND:20261017T231100Z
-SUMMARY:The Conductor — Film Forum
-LOCATION:Film Forum
-DESCRIPTION:Dir. Andrzej Wajda | 1980 | 101M | https://filmforum.org/film
- /the-conductor-wajda-100
-URL:https://filmforum.org/film/the-conductor-wajda-100
-END:VEVENT
-BEGIN:VEVENT
 UID:48791-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T213000Z
 DTEND:20261017T231600Z
 SUMMARY:Strike — Anthology Film Archives
@@ -4028,8 +3020,19 @@ URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-c
  inema
 END:VEVENT
 BEGIN:VEVENT
+UID:109869-20261017@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261017T213000Z
+DTEND:20261017T231100Z
+SUMMARY:The Conductor — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Andrzej Wajda | 1980 | 101M | https://filmforum.org/film
+ /the-conductor-wajda-100
+URL:https://filmforum.org/film/the-conductor-wajda-100
+END:VEVENT
+BEGIN:VEVENT
 UID:107884-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T214500Z
 DTEND:20261017T215600Z
 SUMMARY:Freedom Day Parade\n\n|  Gay Women Speak\n\n|  A Gay View: Male\n
@@ -4044,7 +3047,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T221500Z
 DTEND:20261018T005400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -4055,7 +3058,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110185-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T223000Z
 DTEND:20261018T003000Z
 SUMMARY:Also Known As Jihadi — Museum of Modern Art
@@ -4066,7 +3069,7 @@ URL:https://www.moma.org/calendar/events/11698
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T224500Z
 DTEND:20261018T003600Z
 SUMMARY:The Devils — BAM
@@ -4077,7 +3080,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T230000Z
 DTEND:20261018T002800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -4090,7 +3093,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:110122-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T233000Z
 DTEND:20261018T004800Z
 SUMMARY:The Touch of Her Flesh — Spectacle
@@ -4101,7 +3104,7 @@ URL:https://www.spectacletheater.com/the-trilogy-of-her-flesh/#touch
 END:VEVENT
 BEGIN:VEVENT
 UID:109858-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261017T235000Z
 DTEND:20261018T014800Z
 SUMMARY:Korczak — Film Forum
@@ -4111,8 +3114,32 @@ DESCRIPTION:Dir. Andrzej Wajda | 1990 | 118M | https://filmforum.org/film
 URL:https://filmforum.org/film/korczak-wajda-100
 END:VEVENT
 BEGIN:VEVENT
+UID:107430-20261017@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261018T000000Z
+DTEND:20261018T014500Z
+SUMMARY:Ghostbusters In Concert — United Palace
+LOCATION:United Palace
+DESCRIPTION:Dir. Ivan Reitman | 1984 | 105M | https://unitedpalace.boleto
+ sexpress.com/ghostbusters-in-concert/86903/
+URL:https://unitedpalace.boletosexpress.com/ghostbusters-in-concert/86903
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:48796-20261017@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261018T000000Z
+DTEND:20261018T011500Z
+SUMMARY:Battleship Potemkin — Anthology Film Archives
+LOCATION:Anthology Film Archives
+DESCRIPTION:Dir. Sergei Eisenstein | 1925 | 75M | 35mm | http://anthology
+ filmarchives.org/film_screenings/programs/essential-cinema
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-c
+ inema
+END:VEVENT
+BEGIN:VEVENT
 UID:110362-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T000000Z
 DTEND:20261018T014500Z
 SUMMARY:Ghostbusters In Concert — United Palace
@@ -4125,32 +3152,8 @@ URL:https://www.google.com/url?q=https://unitedpalace.org/ghostbustersinc
  KebaKJCKOeuBP
 END:VEVENT
 BEGIN:VEVENT
-UID:107430-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261018T000000Z
-DTEND:20261018T014500Z
-SUMMARY:Ghostbusters In Concert — United Palace
-LOCATION:United Palace
-DESCRIPTION:Dir. Ivan Reitman | 1984 | 105M | https://unitedpalace.boleto
- sexpress.com/ghostbusters-in-concert/86903/
-URL:https://unitedpalace.boletosexpress.com/ghostbusters-in-concert/86903
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:48796-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
-DTSTART:20261018T000000Z
-DTEND:20261018T011500Z
-SUMMARY:Battleship Potemkin — Anthology Film Archives
-LOCATION:Anthology Film Archives
-DESCRIPTION:Dir. Sergei Eisenstein | 1925 | 75M | 35mm | http://anthology
- filmarchives.org/film_screenings/programs/essential-cinema
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-c
- inema
-END:VEVENT
-BEGIN:VEVENT
 UID:107890-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T003000Z
 DTEND:20261018T003500Z
 SUMMARY:First Date\n\n|  I Change I am the Same\n\n|  Self-Health\n\n|  H
@@ -4164,7 +3167,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T011500Z
 DTEND:20261018T030600Z
 SUMMARY:The Devils — BAM
@@ -4175,7 +3178,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110124-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T020000Z
 DTEND:20261018T031800Z
 SUMMARY:The Curse of Her Flesh — Spectacle
@@ -4186,7 +3189,7 @@ URL:https://www.spectacletheater.com/the-trilogy-of-her-flesh/#curse
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T022000Z
 DTEND:20261018T045900Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -4197,7 +3200,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:110126-20261017@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T035500Z
 DTEND:20261018T050400Z
 SUMMARY:The Kiss of Her Flesh — Spectacle
@@ -4208,7 +3211,7 @@ URL:https://www.spectacletheater.com/the-trilogy-of-her-flesh/#kiss
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T140000Z
 DTEND:20261018T152800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -4221,7 +3224,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T145500Z
 DTEND:20261018T173400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -4232,7 +3235,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:108893-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T150000Z
 DTEND:20261018T163800Z
 SUMMARY:Spy Kids — Film Forum
@@ -4243,7 +3246,7 @@ URL:https://filmforum.org/film/spy-kids-ffjr-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:109468-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T150000Z
 DTEND:20261018T165000Z
 SUMMARY:The Addams Family — Nitehawk Cinema Prospect Park
@@ -4254,7 +3257,7 @@ URL:https://nitehawkcinema.com/prospectpark/movies/the-addams-family/
 END:VEVENT
 BEGIN:VEVENT
 UID:110356-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T160000Z
 DTEND:20261018T175600Z
 SUMMARY:Dissolutions - Selection of Short Films — Roxy Cinema New York
@@ -4267,7 +3270,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-festival-di
 END:VEVENT
 BEGIN:VEVENT
 UID:109888-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T160000Z
 DTEND:20261018T174300Z
 SUMMARY:Vampire's Kiss — Nitehawk Cinema Prospect Park
@@ -4278,7 +3281,7 @@ URL:https://nitehawkcinema.com/prospectpark/movies/vampires-kiss/
 END:VEVENT
 BEGIN:VEVENT
 UID:110264-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T160000Z
 DTEND:20261018T161700Z
 SUMMARY:Sunday Morning…\n\n|  Right to the Truth\n\n|  Wound\n\n|  Sergei
@@ -4293,7 +3296,7 @@ URL:https://www.dctvny.org/s/firehouse-film/deconstructions-right-to-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:109857-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T170000Z
 DTEND:20261018T190200Z
 SUMMARY:Katyn — Film Forum
@@ -4304,7 +3307,7 @@ URL:https://filmforum.org/film/katyn-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T171500Z
 DTEND:20261018T190600Z
 SUMMARY:The Devils — BAM
@@ -4315,7 +3318,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109938-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T173000Z
 DTEND:20261018T195000Z
 SUMMARY:Mafrouza - Oh la nuit! — Museum of Modern Art
@@ -4326,7 +3329,7 @@ URL:https://www.moma.org/calendar/events/11693
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T183500Z
 DTEND:20261018T211400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -4337,7 +3340,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109875-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T193000Z
 DTEND:20261018T212500Z
 SUMMARY:Samson — Film Forum
@@ -4348,7 +3351,7 @@ URL:https://filmforum.org/film/samson-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T201500Z
 DTEND:20261018T220600Z
 SUMMARY:The Devils — BAM
@@ -4359,7 +3362,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:109988-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T203000Z
 DTEND:20261018T213000Z
 SUMMARY:When There Is No More Music to Write\, and Other Roman Stories — 
@@ -4371,7 +3374,7 @@ URL:https://www.moma.org/calendar/events/11694
 END:VEVENT
 BEGIN:VEVENT
 UID:53668-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T204500Z
 DTEND:20261018T224500Z
 SUMMARY:Old and New — Anthology Film Archives
@@ -4383,7 +3386,7 @@ URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-c
 END:VEVENT
 BEGIN:VEVENT
 UID:110094-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T210000Z
 DTEND:20261018T220800Z
 SUMMARY:Morbid Weekend — Spectacle
@@ -4394,7 +3397,7 @@ URL:https://www.spectacletheater.com/morbid-weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:110358-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T213000Z
 DTEND:20261018T225600Z
 SUMMARY:Karishika — Roxy Cinema New York
@@ -4406,7 +3409,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-fest-karish
 END:VEVENT
 BEGIN:VEVENT
 UID:107998-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T214500Z
 DTEND:20261018T215500Z
 SUMMARY:James\n\n|  The Bed\n\n|  Nuptiae\n\n|  The Golden Positions — An
@@ -4420,7 +3423,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:109877-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T220000Z
 DTEND:20261019T015400Z
 SUMMARY:The Ashes FF — Film Forum
@@ -4431,7 +3434,7 @@ URL:https://filmforum.org/film/the-ashes-wajda-100
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T221500Z
 DTEND:20261019T005400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -4442,7 +3445,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109954-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T223000Z
 DTEND:20261018T233000Z
 SUMMARY:Filmmakers for the Prosecution — Columbia University Lenfest Cent
@@ -4456,7 +3459,7 @@ URL:https://www.lenfest.arts.columbia.edu/fall-2026-events/screening-film
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T224500Z
 DTEND:20261019T003600Z
 SUMMARY:The Devils — BAM
@@ -4467,7 +3470,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110051-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T230000Z
 DTEND:20261019T000500Z
 SUMMARY:Enough Is Enough\n\n|  Mulika — Maysles Cinema
@@ -4479,7 +3482,7 @@ URL:https://www.maysles.org/calendar/trop-cest-trop-enough-is-enough-muli
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T233000Z
 DTEND:20261019T005800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -4492,7 +3495,7 @@ URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
 END:VEVENT
 BEGIN:VEVENT
 UID:110100-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T233000Z
 DTEND:20261019T015700Z
 SUMMARY:Les Proies du Mals — Spectacle
@@ -4503,7 +3506,7 @@ URL:https://www.spectacletheater.com/les-proies-du-mal/
 END:VEVENT
 BEGIN:VEVENT
 UID:53565-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261018T233000Z
 DTEND:20261019T015300Z
 SUMMARY:October (Ten Days that Shook the World) — Anthology Film Archives
@@ -4515,7 +3518,7 @@ URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-c
 END:VEVENT
 BEGIN:VEVENT
 UID:110360-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T000000Z
 DTEND:20261019T004000Z
 SUMMARY:Amos Poe: Unmade — Roxy Cinema New York
@@ -4527,7 +3530,7 @@ URL:https://www.roxycinemanewyork.com/screenings/the-downtown-fest-amos-p
 END:VEVENT
 BEGIN:VEVENT
 UID:107999-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T000000Z
 DTEND:20261019T001200Z
 SUMMARY:Jerovi\n\n|  The Now\n\n|  Holding\n\n|  Stamen\n\n|  Fever Dream
@@ -4541,7 +3544,7 @@ URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
 END:VEVENT
 BEGIN:VEVENT
 UID:110054-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T003000Z
 DTEND:20261019T021600Z
 SUMMARY:Showgirls of Pakistan — UnionDocs
@@ -4552,7 +3555,7 @@ URL:https://uniondocs.org/event/showgirls-of-pakistan-2026-10-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:93889-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T003000Z
 DTEND:20261019T024400Z
 SUMMARY:Once Upon a Time in China — Metrograph
@@ -4563,7 +3566,7 @@ URL:https://metrograph.com/film/9999004431-once-upon-a-time-in-china/
 END:VEVENT
 BEGIN:VEVENT
 UID:109768-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T011500Z
 DTEND:20261019T030600Z
 SUMMARY:The Devils — BAM
@@ -4574,7 +3577,7 @@ URL:https://www.bam.org/film/2026/the-devils
 END:VEVENT
 BEGIN:VEVENT
 UID:110379-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T015500Z
 DTEND:20261019T043400Z
 SUMMARY:La Bola Negra — Paris Theater
@@ -4585,7 +3588,7 @@ URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
 END:VEVENT
 BEGIN:VEVENT
 UID:109900-20261018@screenslate.ics
-DTSTAMP:20261012T100737Z
+DTSTAMP:20261013T100701Z
 DTSTART:20261019T020000Z
 DTEND:20261019T032800Z
 SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
@@ -4595,5 +3598,251 @@ DESCRIPTION:Dir. Marialuisa Ernst | 2025 | 88M | https://www.dctvny.org/s
  /firehouse-film/a-place-of-absence-MC3T3BDGO77NC2BELFKIJEC6AU2Q
 URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
  7NC2BELFKIJEC6AU2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:110379-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T145500Z
+DTEND:20261019T173400Z
+SUMMARY:La Bola Negra — Paris Theater
+LOCATION:Paris Theater
+DESCRIPTION:Dir. Javier Calvo\,     Javier Ambrossi | 2026 | 159M | 35mm 
+ | https://www.paristheaternyc.com/film/la-bola-negra-paris
+URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:109865-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T170000Z
+DTEND:20261019T183800Z
+SUMMARY:Afterimage — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Andrzej Wajda | 2016 | 98M | https://filmforum.org/film/
+ afterimage-wajda-100
+URL:https://filmforum.org/film/afterimage-wajda-100
+END:VEVENT
+BEGIN:VEVENT
+UID:109900-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T180000Z
+DTEND:20261019T192800Z
+SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
+ m
+LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
+DESCRIPTION:Dir. Marialuisa Ernst | 2025 | 88M | https://www.dctvny.org/s
+ /firehouse-film/a-place-of-absence-MC3T3BDGO77NC2BELFKIJEC6AU2Q
+URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
+ 7NC2BELFKIJEC6AU2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:110379-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T183500Z
+DTEND:20261019T211400Z
+SUMMARY:La Bola Negra — Paris Theater
+LOCATION:Paris Theater
+DESCRIPTION:Dir. Javier Calvo\,     Javier Ambrossi | 2026 | 159M | 35mm 
+ | https://www.paristheaternyc.com/film/la-bola-negra-paris
+URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:109873-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T193000Z
+DTEND:20261019T210800Z
+SUMMARY:Siberian Lady Macbeth — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Andrzej Wajda | 1962 | 98M | 35mm | https://filmforum.or
+ g/film/siberian-lady-macbeth-wajda-100
+URL:https://filmforum.org/film/siberian-lady-macbeth-wajda-100
+END:VEVENT
+BEGIN:VEVENT
+UID:109900-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T200000Z
+DTEND:20261019T212800Z
+SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
+ m
+LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
+DESCRIPTION:Dir. Marialuisa Ernst | 2025 | 88M | https://www.dctvny.org/s
+ /firehouse-film/a-place-of-absence-MC3T3BDGO77NC2BELFKIJEC6AU2Q
+URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
+ 7NC2BELFKIJEC6AU2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:109768-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T201500Z
+DTEND:20261019T220600Z
+SUMMARY:The Devils — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. Ken Russell | 1971 | 111M | DCP | https://www.bam.org/fi
+ lm/2026/the-devils
+URL:https://www.bam.org/film/2026/the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:109879-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T220000Z
+DTEND:20261020T002400Z
+SUMMARY:A CHRONICLE OF AMOROUS ACCIDENTS — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Andrzej Wajda | 1986 | 144M | https://filmforum.org/film
+ /a-chronicle-of-amorous-accidents-wajda-100
+URL:https://filmforum.org/film/a-chronicle-of-amorous-accidents-wajda-100
+END:VEVENT
+BEGIN:VEVENT
+UID:110379-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T221500Z
+DTEND:20261020T005400Z
+SUMMARY:La Bola Negra — Paris Theater
+LOCATION:Paris Theater
+DESCRIPTION:Dir. Javier Calvo\,     Javier Ambrossi | 2026 | 159M | 35mm 
+ | https://www.paristheaternyc.com/film/la-bola-negra-paris
+URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:109768-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T224500Z
+DTEND:20261020T003600Z
+SUMMARY:The Devils — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. Ken Russell | 1971 | 111M | DCP | https://www.bam.org/fi
+ lm/2026/the-devils
+URL:https://www.bam.org/film/2026/the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:110056-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T230000Z
+DTEND:20261020T002600Z
+SUMMARY:Uprooted: Five Women Against a Colonial Crime — Maysles Cinema
+LOCATION:Maysles Cinema
+DESCRIPTION:Dir. Quentin Noirfalisse\,     Jean-Charles Mbotti Malolo | 2
+ 025 | 86M | https://www.maysles.org/calendar/metisses-cinq-femmes-contre-
+ un-crime-detat
+URL:https://www.maysles.org/calendar/metisses-cinq-femmes-contre-un-crime
+ -detat
+END:VEVENT
+BEGIN:VEVENT
+UID:108002-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T230000Z
+DTEND:20261019T230200Z
+SUMMARY:Love Toad\n\n|  Possibilities\n\n|  Quiet Afternoon\n\n|  Nick an
+ d Jon\n\n|  Both/And — Anthology Film Archives
+LOCATION:Anthology Film Archives
+DESCRIPTION:Dir. Greg Von Buchau | 1971 | 2M | DCP | https://www.antholog
+ yfilmarchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;y
+ ear=2026#showing-62023
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
+ ist&amp;month=10&amp;year=2026#showing-62023
+END:VEVENT
+BEGIN:VEVENT
+UID:108990-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T233000Z
+DTEND:20261020T010600Z
+SUMMARY:Lifeboat — Quad Cinema
+LOCATION:Quad Cinema
+DESCRIPTION:Dir. Alfred Hitchcock | 1944 | 96M | DCP | https://quadcinema
+ .com/film/lifeboat/
+URL:https://quadcinema.com/film/lifeboat/
+END:VEVENT
+BEGIN:VEVENT
+UID:110473-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T233000Z
+DTEND:20261020T012000Z
+SUMMARY:If Pigeons Turned to Gold — Czech Center
+LOCATION:Czech Center
+DESCRIPTION:Dir. Pepa Lubojacki | 2026 | 110M | https://www.google.com/ur
+ l?q=https://new-york.czechcentres.gov.cz/en/program/oscar-night-if-pigeon
+ s-turned-to-gold-director-qa&amp\;source=gmail&amp\;ust=1791750313228000&
+ amp\;usg=AOvVaw1VGqh2seovOoBNnJ7FAjhI
+URL:https://www.google.com/url?q=https://new-york.czechcentres.gov.cz/en/
+ program/oscar-night-if-pigeons-turned-to-gold-director-qa&amp;source=gmai
+ l&amp;ust=1791750313228000&amp;usg=AOvVaw1VGqh2seovOoBNnJ7FAjhI
+END:VEVENT
+BEGIN:VEVENT
+UID:110092-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261019T233000Z
+DTEND:20261020T005800Z
+SUMMARY:Die Hard Dracula — Spectacle
+LOCATION:Spectacle
+DESCRIPTION:Dir. Peter Horak | 1998 | 88M | https://www.spectacletheater.
+ com/die-hard-dracula/
+URL:https://www.spectacletheater.com/die-hard-dracula/
+END:VEVENT
+BEGIN:VEVENT
+UID:109881-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261020T000000Z
+DTEND:20261020T012500Z
+SUMMARY:Sweet Rush — Film Forum
+LOCATION:Film Forum
+DESCRIPTION:Dir. Andrzej Wajda | 2009 | 85M | https://filmforum.org/film/
+ sweet-rush-wajda-100
+URL:https://filmforum.org/film/sweet-rush-wajda-100
+END:VEVENT
+BEGIN:VEVENT
+UID:109900-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261020T010000Z
+DTEND:20261020T022800Z
+SUMMARY:A Place Of Absence — Firehouse: DCTV’s Cinema for Documentary Fil
+ m
+LOCATION:Firehouse: DCTV’s Cinema for Documentary Film
+DESCRIPTION:Dir. Marialuisa Ernst | 2025 | 88M | https://www.dctvny.org/s
+ /firehouse-film/a-place-of-absence-MC3T3BDGO77NC2BELFKIJEC6AU2Q
+URL:https://www.dctvny.org/s/firehouse-film/a-place-of-absence-MC3T3BDGO7
+ 7NC2BELFKIJEC6AU2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:109768-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261020T011500Z
+DTEND:20261020T030600Z
+SUMMARY:The Devils — BAM
+LOCATION:BAM
+DESCRIPTION:Dir. Ken Russell | 1971 | 111M | DCP | https://www.bam.org/fi
+ lm/2026/the-devils
+URL:https://www.bam.org/film/2026/the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:110179-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261020T011500Z
+DTEND:20261020T025500Z
+SUMMARY:It Follows — Nitehawk Cinema Prospect Park
+LOCATION:Nitehawk Cinema Prospect Park
+DESCRIPTION:2014 | 100M | DCP | https://nitehawkcinema.com/prospectpark/m
+ ovies/it-follows/
+URL:https://nitehawkcinema.com/prospectpark/movies/it-follows/
+END:VEVENT
+BEGIN:VEVENT
+UID:110379-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261020T015500Z
+DTEND:20261020T043400Z
+SUMMARY:La Bola Negra — Paris Theater
+LOCATION:Paris Theater
+DESCRIPTION:Dir. Javier Calvo\,     Javier Ambrossi | 2026 | 159M | 35mm 
+ | https://www.paristheaternyc.com/film/la-bola-negra-paris
+URL:https://www.paristheaternyc.com/film/la-bola-negra-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:110117-20261019@screenslate.ics
+DTSTAMP:20261013T100701Z
+DTSTART:20261020T020000Z
+DTEND:20261020T032700Z
+SUMMARY:Demonic Umbrella — Spectacle
+LOCATION:Spectacle
+DESCRIPTION:Dir. Mao Chiang-pang | 1991 | 87M | https://www.spectaclethea
+ ter.com/lam-ching-ying/#umbrella
+URL:https://www.spectacletheater.com/lam-ching-ying/#umbrella
 END:VEVENT
 END:VCALENDAR
